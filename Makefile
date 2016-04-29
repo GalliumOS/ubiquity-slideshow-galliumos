@@ -11,7 +11,8 @@ SLIDESHOWS = \
 	ubuntukylin \
 	ubuntu-mate \
 	oem-config-ubuntu \
-	oem-config-ubuntu-mate
+	oem-config-ubuntu-mate \
+	galliumos
 
 SOURCE ?= .
 SOURCESLIDES ?= $(SOURCE)/slideshows
