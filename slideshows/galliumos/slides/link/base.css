@@ -429,4 +429,5 @@ h2 {
 /*  Thank you  */
 .slide#xenial {
 	background: transparent url(../images/xenon_art.png) 100% 100% no-repeat;
+	transition: all 400ms;
 }

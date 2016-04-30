@@ -100,15 +100,15 @@ Signals.watch( 'slideshow-loaded', function( ) {
 	/* Desktop */
 	/* Highlight the portions of the panel when hovering over the information boxes */
 	$( '#panel_menu' ).hover(
-		function( ) { panelhighlight_show( 0, 26 ); },
+		function( ) { panelhighlight_show( 0, 32 ); },
 		function( ) { panelhighlight_hide( ); }
 	);
 	$( '#panel_windowbuttons' ).hover(
-		function( ) { panelhighlight_show( 32, 550 ); },
+		function( ) { panelhighlight_show( 36, 573 ); },
 		function( ) { panelhighlight_hide( ); }
 	);
 	$( '#panel_indicatorsclock' ).hover(
-		function( ) { panelhighlight_show( 582, 168 ); },
+		function( ) { panelhighlight_show( 610, 168 ); },
 		function( ) { panelhighlight_hide( ); }
 	);
 
