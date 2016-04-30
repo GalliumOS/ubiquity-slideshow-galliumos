@@ -186,6 +186,7 @@ body {
 
 .right { text-align: right; }
 .bottom { position: absolute; bottom: 0; }
+.bottom.near{ bottom: 1em; width: 50%} 
 
 /*
  *  Elements
@@ -427,5 +428,5 @@ h2 {
 
 /*  Thank you  */
 .slide#xenial {
-	background: transparent url(../images/xerus_art.png) 100% 100% no-repeat;
+	background: transparent url(../images/xenon_art.png) 100% 100% no-repeat;
 }
