@@ -1,3 +1,9 @@
+ubiquity-slideshow-ubuntu (97-galliumos1) xenon; urgency=medium
+
+  * Added GalliumOS slideshow
+
+ -- David Muckle <dmuc2005@aol.com>  Sun, 01 May 2016 14:02:37 -0400
+
 ubiquity-slideshow-ubuntu (97) vivid; urgency=medium
 
   [ Dylan McCall ]
@@ -143,7 +149,7 @@ ubiquity-slideshow-ubuntu (83) trusty; urgency=medium
   * Update PO templates.
   * Update translations from Launchpad.
 
- -- Stéphane Graber <stgraber@ubuntu.com>  Tue, 08 Apr 2014 11:03:49 -0400
+ -- StÃÂ©phane Graber <stgraber@ubuntu.com>  Tue, 08 Apr 2014 11:03:49 -0400
 
 ubiquity-slideshow-ubuntu (82) trusty; urgency=medium
 
@@ -158,7 +164,7 @@ ubiquity-slideshow-ubuntu (81) trusty; urgency=medium
   * Update PO templates.
   * Update translations from Launchpad.
 
- -- Stéphane Graber <stgraber@ubuntu.com>  Sun, 30 Mar 2014 16:57:02 -0400
+ -- StÃÂ©phane Graber <stgraber@ubuntu.com>  Sun, 30 Mar 2014 16:57:02 -0400
 
 ubiquity-slideshow-ubuntu (80) trusty; urgency=medium
 
@@ -173,11 +179,11 @@ ubiquity-slideshow-ubuntu (80) trusty; urgency=medium
   [ Kaj Ailomaa ]
   * Slideshow update for Ubuntu Studio. (LP: #1294084)
 
-  [ Stéphane Graber ]
+  [ StÃÂ©phane Graber ]
   * Update translation templates.
   * Update translations from Launchpad.
 
- -- Stéphane Graber <stgraber@ubuntu.com>  Mon, 24 Mar 2014 10:38:57 -0400
+ -- StÃÂ©phane Graber <stgraber@ubuntu.com>  Mon, 24 Mar 2014 10:38:57 -0400
 
 ubiquity-slideshow-ubuntu (79) trusty; urgency=medium
 
@@ -203,23 +209,23 @@ ubiquity-slideshow-ubuntu (79) trusty; urgency=medium
   * Xubuntu: Update the Help & Support slide
   * Xubuntu: Highlight different portions of panel when hovering over the appropriate information box.
 
-  [ Stéphane Graber ]
+  [ StÃÂ©phane Graber ]
   * UI freeze upload, anything after this one requires a UIFe.
   * Update translation templates.
   * Update translations from Launchpad.
 
- -- Stéphane Graber <stgraber@ubuntu.com>  Mon, 17 Mar 2014 13:17:12 -0400
+ -- StÃÂ©phane Graber <stgraber@ubuntu.com>  Mon, 17 Mar 2014 13:17:12 -0400
 
 ubiquity-slideshow-ubuntu (78) trusty; urgency=medium
 
   [ Pasi Lallinaho ]
   * Update Xubuntu slide for 14.04 beta 1.
 
-  [ Stéphane Graber ]
+  [ StÃÂ©phane Graber ]
   * Update all PO templates.
   * Update translations from Launchpad.
 
- -- Stéphane Graber <stgraber@ubuntu.com>  Mon, 24 Feb 2014 10:24:55 -0500
+ -- StÃÂ©phane Graber <stgraber@ubuntu.com>  Mon, 24 Feb 2014 10:24:55 -0500
 
 ubiquity-slideshow-ubuntu (77) trusty; urgency=medium
 
@@ -242,11 +248,11 @@ ubiquity-slideshow-ubuntu (75) saucy; urgency=low
 
   * Update translations from Launchpad.
 
- -- Stéphane Graber <stgraber@ubuntu.com>  Fri, 11 Oct 2013 17:41:26 -0400
+ -- StÃÂ©phane Graber <stgraber@ubuntu.com>  Fri, 11 Oct 2013 17:41:26 -0400
 
 ubiquity-slideshow-ubuntu (74) saucy; urgency=low
 
-  [ Alfredo Hernández ]
+  [ Alfredo HernÃÂ¡ndez ]
   * New Ubuntu GNOME slideshow (LP: #1154715)
 
   [ Pasi Lallinaho ]
@@ -280,7 +286,7 @@ ubiquity-slideshow-ubuntu (71) saucy; urgency=low
   * Changed version of Ubuntu in each slideshow to 13.10.
   * Updated translations.
 
-  [ Aurélien Gâteau ]
+  [ AurÃÂ©lien GÃÂ¢teau ]
   * Get rid of the fixed background color in Kubuntu slideshow so
     that the background texture of the installer shows through.
 
@@ -291,21 +297,21 @@ ubiquity-slideshow-ubuntu (70) raring; urgency=low
   [ Dylan McCall ]
   * Removed social.html from the slide rotation for Ubuntu. (LP: #1169299)
 
-  [ Stéphane Graber ]
+  [ StÃÂ©phane Graber ]
   * Update translations from Launchpad.
 
- -- Stéphane Graber <stgraber@ubuntu.com>  Thu, 18 Apr 2013 09:53:49 +0200
+ -- StÃÂ©phane Graber <stgraber@ubuntu.com>  Thu, 18 Apr 2013 09:53:49 +0200
 
 ubiquity-slideshow-ubuntu (69) raring; urgency=low
 
   [ Dmitrijs Ledkovs ]
-  * Drop references to Skype™ and its logo. (LP: #1163504)
+  * Drop references to SkypeÃ¢ÂÂ¢ and its logo. (LP: #1163504)
 
-  [ Stéphane Graber ]
+  [ StÃÂ©phane Graber ]
   * Update translations from Launchpad.
   * Update PO templates after Skype string change.
 
- -- Stéphane Graber <stgraber@ubuntu.com>  Fri, 12 Apr 2013 14:50:28 +0200
+ -- StÃÂ©phane Graber <stgraber@ubuntu.com>  Fri, 12 Apr 2013 14:50:28 +0200
 
 ubiquity-slideshow-ubuntu (68) raring; urgency=low
 
@@ -339,19 +345,19 @@ ubiquity-slideshow-ubuntu (68) raring; urgency=low
   [ Jonathan Carter ]
   * Update the Edubuntu slideshow.
 
-  [ Stéphane Graber ]
+  [ StÃÂ©phane Graber ]
   * Fix various issues in the Edubuntu and Ubuntu slideshows (broken html)
   * Re-generate the po templates.
   * Update current translations from Launchpad.
 
- -- Stéphane Graber <stgraber@ubuntu.com>  Thu, 21 Mar 2013 10:01:52 -0400
+ -- StÃÂ©phane Graber <stgraber@ubuntu.com>  Thu, 21 Mar 2013 10:01:52 -0400
 
 ubiquity-slideshow-ubuntu (67) raring; urgency=low
 
   [ Julien Lavergne ]
   * Set version to 13.04 for all slideshows.
 
-  [ Aurélien Gâteau ]
+  [ AurÃÂ©lien GÃÂ¢teau ]
   * Kubuntu: make slideshow not fixed width/height
 
  -- Julien Lavergne <gilir@ubuntu.com>  Sun, 24 Feb 2013 14:53:05 +0100
@@ -361,10 +367,10 @@ ubiquity-slideshow-ubuntu (66) raring; urgency=low
   [ Jonathan Carter ]
   * Update slideshow for Edubuntu alpha.
 
-  [ Stéphane Graber ]
+  [ StÃÂ©phane Graber ]
   * Update translations from Launchpad.
 
- -- Stéphane Graber <stgraber@ubuntu.com>  Mon, 03 Dec 2012 10:55:58 -0500
+ -- StÃÂ©phane Graber <stgraber@ubuntu.com>  Mon, 03 Dec 2012 10:55:58 -0500
 
 ubiquity-slideshow-ubuntu (65) quantal; urgency=low
 
@@ -376,15 +382,15 @@ ubiquity-slideshow-ubuntu (65) quantal; urgency=low
   [ Everaldo Canuto ]
   * Add new ubiquity-slideshow-ubuntu-gnome slideshow. (LP: #1051162)
 
-  [ Stéphane Graber ]
+  [ StÃÂ©phane Graber ]
   * Re-generate po templates.
   * Update translations from Launchpad.
 
- -- Stéphane Graber <stgraber@ubuntu.com>  Tue, 09 Oct 2012 13:56:58 -0400
+ -- StÃÂ©phane Graber <stgraber@ubuntu.com>  Tue, 09 Oct 2012 13:56:58 -0400
 
 ubiquity-slideshow-ubuntu (64) quantal; urgency=low
 
-  [ Stéphane Graber ]
+  [ StÃÂ©phane Graber ]
   * Fix invalid html in Xubuntu slideshow preventing pot files generation.
     (LP: #1043222)
   * Re-generate all po templates (was already manually imported in Launchpad)
@@ -393,13 +399,13 @@ ubiquity-slideshow-ubuntu (64) quantal; urgency=low
   [ Dylan McCall ]
   * Updated copy for Ubuntu slideshow. (LP: #1056456, LP: #1054346)
 
- -- Stéphane Graber <stgraber@ubuntu.com>  Mon, 01 Oct 2012 12:09:50 -0400
+ -- StÃÂ©phane Graber <stgraber@ubuntu.com>  Mon, 01 Oct 2012 12:09:50 -0400
 
 ubiquity-slideshow-ubuntu (63) quantal; urgency=low
 
   * Update translations from Launchpad.
 
- -- Stéphane Graber <stgraber@ubuntu.com>  Thu, 20 Sep 2012 13:29:06 -0400
+ -- StÃÂ©phane Graber <stgraber@ubuntu.com>  Thu, 20 Sep 2012 13:29:06 -0400
 
 ubiquity-slideshow-ubuntu (62) quantal; urgency=low
 
@@ -413,13 +419,13 @@ ubiquity-slideshow-ubuntu (62) quantal; urgency=low
     - Remove geogebra slide (no longer shipped).
     - Update versions in under-the-hood slide.
 
-  [ Stéphane Graber ]
+  [ StÃÂ©phane Graber ]
   * Edubuntu slideshow (LP: #1051023)
     - Update indication on how to start LTSP-Live.
     - Don't mention arkose-nautilus, it doesn't work with nautilus3.
   * Update translations from Launchpad.
 
- -- Stéphane Graber <stgraber@ubuntu.com>  Fri, 14 Sep 2012 14:40:57 -0400
+ -- StÃÂ©phane Graber <stgraber@ubuntu.com>  Fri, 14 Sep 2012 14:40:57 -0400
 
 ubiquity-slideshow-ubuntu (61) quantal; urgency=low
 
@@ -431,10 +437,10 @@ ubiquity-slideshow-ubuntu (61) quantal; urgency=low
   * Fix slideshow.py to properly handle SSL.
   * Fix twitter stream not appearing in C locale.
 
-  [ Stéphane Graber ]
+  [ StÃÂ©phane Graber ]
   * Refresh translations from Launchpad.
 
- -- Stéphane Graber <stgraber@ubuntu.com>  Thu, 30 Aug 2012 13:49:38 -0700
+ -- StÃÂ©phane Graber <stgraber@ubuntu.com>  Thu, 30 Aug 2012 13:49:38 -0700
 
 ubiquity-slideshow-ubuntu (60) quantal; urgency=low
 
@@ -442,7 +448,7 @@ ubiquity-slideshow-ubuntu (60) quantal; urgency=low
     certificate. So turn off twitter completely for now. (LP: #991982)
     CVE-2012-0956
 
- -- Stéphane Graber <stgraber@ubuntu.com>  Wed, 15 Aug 2012 15:23:01 -0400
+ -- StÃÂ©phane Graber <stgraber@ubuntu.com>  Wed, 15 Aug 2012 15:23:01 -0400
 
 ubiquity-slideshow-ubuntu (59) quantal; urgency=low
 
@@ -463,10 +469,10 @@ ubiquity-slideshow-ubuntu (59) quantal; urgency=low
     the twitter feed. (LP: #991982)
   * CVE-2012-0956
 
-  [ Stéphane Graber ]
+  [ StÃÂ©phane Graber ]
   * Refresh translations from Launchpad
 
- -- Stéphane Graber <stgraber@ubuntu.com>  Wed, 15 Aug 2012 12:41:27 -0400
+ -- StÃÂ©phane Graber <stgraber@ubuntu.com>  Wed, 15 Aug 2012 12:41:27 -0400
 
 ubiquity-slideshow-ubuntu (58) precise; urgency=low
 
@@ -474,10 +480,10 @@ ubiquity-slideshow-ubuntu (58) precise; urgency=low
   * New screenshots for Ubuntu slideshow.
     (LP: #983833, LP: #982109, LP: #983936, LP: #983795)
 
-  [ Stéphane Graber ]
+  [ StÃÂ©phane Graber ]
   * Refresh translations from Launchpad
 
- -- Stéphane Graber <stgraber@ubuntu.com>  Tue, 17 Apr 2012 17:00:01 +0200
+ -- StÃÂ©phane Graber <stgraber@ubuntu.com>  Tue, 17 Apr 2012 17:00:01 +0200
 
 ubiquity-slideshow-ubuntu (57) precise; urgency=low
 
@@ -488,20 +494,20 @@ ubiquity-slideshow-ubuntu (57) precise; urgency=low
   * Add missing twitter links in oem-config-ubuntu
   * Rename oem_config_ubuntu to oem-config-ubuntu in Makefile
 
-  [ Stéphane Graber ]
+  [ StÃÂ©phane Graber ]
   * The following changes were reverted before this upload as they were
     lacking UIFe:
     - New UbuntuOne screenshot
     - Updated browse.jpg, music.jpg, photos.jpg and social.jpg screenshots
   * Refresh translations from Launchpad
 
- -- Stéphane Graber <stgraber@ubuntu.com>  Thu, 12 Apr 2012 11:29:52 +0200
+ -- StÃÂ©phane Graber <stgraber@ubuntu.com>  Thu, 12 Apr 2012 11:29:52 +0200
 
 ubiquity-slideshow-ubuntu (56) precise; urgency=low
 
   * Refresh translations from Launchpad
 
- -- Stéphane Graber <stgraber@ubuntu.com>  Thu, 22 Mar 2012 14:47:06 -0400
+ -- StÃÂ©phane Graber <stgraber@ubuntu.com>  Thu, 22 Mar 2012 14:47:06 -0400
 
 ubiquity-slideshow-ubuntu (55) precise; urgency=low
 
@@ -511,15 +517,15 @@ ubiquity-slideshow-ubuntu (55) precise; urgency=low
   [ Pasi Lallinaho  ]
   * Fixes Xubuntu slideshow for most netbooks (LP: #961041)
 
-  [ Stéphane Graber ]
+  [ StÃÂ©phane Graber ]
   * Update po templates
   * Refresh translations from Launchpad
 
- -- Stéphane Graber <stgraber@ubuntu.com>  Wed, 21 Mar 2012 12:26:41 -0400
+ -- StÃÂ©phane Graber <stgraber@ubuntu.com>  Wed, 21 Mar 2012 12:26:41 -0400
 
 ubiquity-slideshow-ubuntu (54) precise; urgency=low
 
-  [ Stéphane Graber ]
+  [ StÃÂ©phane Graber ]
   * New release (LP: #956554)
   * Refresh translation templates for previous changes.
   * Update translations from Launchpad
@@ -539,7 +545,7 @@ ubiquity-slideshow-ubuntu (54) precise; urgency=low
   * Xubuntu: Optimize the PNG's
   * Xubuntu: Update Pidgin description.
 
- -- Stéphane Graber <stgraber@ubuntu.com>  Thu, 15 Mar 2012 19:18:21 -0400
+ -- StÃÂ©phane Graber <stgraber@ubuntu.com>  Thu, 15 Mar 2012 19:18:21 -0400
 
 ubiquity-slideshow-ubuntu (53) precise; urgency=low
 
@@ -560,13 +566,13 @@ ubiquity-slideshow-ubuntu (53) precise; urgency=low
    - Disable freemind slide
    - Replace iTalc with Epoptes
 
-  [ Stéphane Graber ]
+  [ StÃÂ©phane Graber ]
   * Update everything to 12.04 and use 12.04 LTS for the TB approved
     flavours. (LP: #915842, LP: #899503)
   * Some minor style changes to Edubuntu slideshow.
   * Updated translation templates
 
- -- Stéphane Graber <stgraber@ubuntu.com>  Thu, 23 Feb 2012 17:23:34 -0500
+ -- StÃÂ©phane Graber <stgraber@ubuntu.com>  Thu, 23 Feb 2012 17:23:34 -0500
 
 ubiquity-slideshow-ubuntu (52) precise; urgency=low
 
@@ -575,7 +581,7 @@ ubiquity-slideshow-ubuntu (52) precise; urgency=low
    - Disable gbrainy slide
    - Update under-the-hood slide
 
- -- Stéphane Graber <stgraber@ubuntu.com>  Sat, 26 Nov 2011 23:09:14 -0500
+ -- StÃÂ©phane Graber <stgraber@ubuntu.com>  Sat, 26 Nov 2011 23:09:14 -0500
 
 ubiquity-slideshow-ubuntu (51) precise; urgency=low
 
@@ -626,7 +632,7 @@ ubiquity-slideshow-ubuntu (45) oneiric; urgency=low
 
   * Update edubuntu slideshow, remove sabayon and nanny. (LP: #850550)
 
- -- Stéphane Graber <stgraber@ubuntu.com>  Thu, 15 Sep 2011 09:40:05 -0400
+ -- StÃÂ©phane Graber <stgraber@ubuntu.com>  Thu, 15 Sep 2011 09:40:05 -0400
 
 ubiquity-slideshow-ubuntu (44) oneiric; urgency=low
 
@@ -778,7 +784,7 @@ ubiquity-slideshow-ubuntu (28) maverick; urgency=low
   * Prefer 'Ubuntu' font family instead of 'UbuntuBeta' (LP: #652047).
 
   [ Colin Watson ]
-  * Update translations from Launchpad, including adding Norwegian Bokmål
+  * Update translations from Launchpad, including adding Norwegian BokmÃÂ¥l
     and Nynorsk (LP: #652395).
 
  -- Colin Watson <cjwatson@ubuntu.com>  Fri, 01 Oct 2010 11:03:28 +0100
