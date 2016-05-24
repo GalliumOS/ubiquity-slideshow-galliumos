@@ -1,3 +1,9 @@
+ubiquity-slideshow-ubuntu (97-galliumos3) UNRELEASED; urgency=medium
+
+  * Edited slideshow background
+
+ -- David Muckle <dvdmuckle@galliumos.org>  Tue, 24 May 2016 00:00:59 -0400
+
 ubiquity-slideshow-ubuntu (97-galliumos2) xenon; urgency=medium
 
   * Edited copy in slides
