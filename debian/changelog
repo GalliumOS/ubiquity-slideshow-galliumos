@@ -1,3 +1,9 @@
+ubiquity-slideshow-ubuntu (97-galliumos5) xenon; urgency=medium
+
+  * Modified shot panel to reflect icon change
+
+ -- David Muckle <dvdmuckle@galliumos.org>  Thu, 02 Feb 2017 16:34:23 -0500
+
 ubiquity-slideshow-ubuntu (97-galliumos4) xenon; urgency=medium
 
   * Removed mention of 2.0
