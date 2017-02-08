@@ -1,3 +1,9 @@
+ubiquity-slideshow-ubuntu (97-galliumos6) xenon; urgency=medium
+
+  * Fixed copy on Support slide
+
+ -- David Muckle <dvdmuckle@galliumos.org>  Wed, 08 Feb 2017 00:41:57 -0500
+
 ubiquity-slideshow-ubuntu (97-galliumos5) xenon; urgency=medium
 
   * Modified shot panel to reflect icon change
