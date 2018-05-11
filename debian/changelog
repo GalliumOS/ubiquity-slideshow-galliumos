@@ -1,3 +1,154 @@
+ubiquity-slideshow-ubuntu (113) xenial; urgency=medium
+
+  * New slideshow for Ubuntu Studio (LP:#1569005)
+
+ -- Kaj Ailomaa <zequence@mousike.me>  Mon, 18 Apr 2016 11:21:19 -0400
+
+ubiquity-slideshow-ubuntu (112) xenial; urgency=medium
+
+  [ Mathieu Trudel-Lapierre ]
+  * Revert strings/translation changes for Ubuntu Software. (LP: #1570479)
+
+  [ Aron Xu ]
+  * Update UbuntuKylin slides.
+
+ -- Mathieu Trudel-Lapierre <cyphermox@ubuntu.com>  Thu, 14 Apr 2016 17:20:58 -0400
+
+ubiquity-slideshow-ubuntu (111) xenial; urgency=medium
+
+  * Update translations. (LP: #1569232)
+  * Fix strings in source and translations; we no longer use Ubuntu Software
+    Center/Store, but GNOME Software now.
+
+ -- Mathieu Trudel-Lapierre <cyphermox@ubuntu.com>  Tue, 12 Apr 2016 15:57:18 -0400
+
+ubiquity-slideshow-ubuntu (110) xenial; urgency=medium
+
+  [ Pasi Lallinaho ]
+  * Update translations
+  * Fix formatting and translatability on Xubuntu slides.
+
+  [ Alfredo Hernández ]
+  * Ditched tiny.cc links on ubuntu-gnome gethelp slide; replaced with
+    the real links.
+
+  [ Will Cooke ]
+  * Fixed OEM symlinks so the OEM configuration slideshow will display
+    properly.
+  * Updated Software screenshot to match the others.
+  * Updated usc.html to point to the new screenshot.
+
+ -- Mathieu Trudel-Lapierre <mathieu-tl@ubuntu.com>  Thu, 24 Mar 2016 23:23:49 -0400
+
+ubiquity-slideshow-ubuntu (109) xenial; urgency=medium
+
+  [ Will Cooke ]
+  * Updated screenshots to better reflect the current apps running on 16.04
+    and add the new animal.
+  * Slight change of wording to the Software slide to remove references to
+    USC. I've left the text largely unchanged to make translations easier.
+  * Includes the screenshots and update pot files.
+
+ -- Mathieu Trudel-Lapierre <mathieu-tl@ubuntu.com>  Tue, 22 Mar 2016 16:17:54 -0400
+
+ubiquity-slideshow-ubuntu (108) xenial; urgency=medium
+
+  [ Pasi Lallinaho ]
+  * Update the Xubuntu slideshow
+  * Update translation templates
+  * Bump version numbers up to 16.04 across the board
+
+  [ Martin Wimpress ]
+  * Update the Ubuntu MATE slideshow
+
+  [ Tim Lunn ]
+  * Update the Ubuntu GNOME slideshow
+
+ -- Mathieu Trudel-Lapierre <mathieu-tl@ubuntu.com>  Thu, 10 Mar 2016 12:48:07 -0500
+
+ubiquity-slideshow-ubuntu (107) wily; urgency=medium
+
+  [ Dylan McCall ]
+  * Fix the Help and Support slide so text is visible.
+
+  [ Mathieu Trudel-Lapierre ]
+  * Update translations from Launchpad.
+
+ -- Mathieu Trudel-Lapierre <mathieu-tl@ubuntu.com>  Fri, 16 Oct 2015 15:31:49 -0400
+
+ubiquity-slideshow-ubuntu (106) wily; urgency=medium
+
+  * Update Ubuntu wallpaper and evolve the vervet into a werewolf.
+
+ -- Mathieu Trudel-Lapierre <mathieu-tl@ubuntu.com>  Wed, 07 Oct 2015 14:58:34 -0400
+
+ubiquity-slideshow-ubuntu (105) wily; urgency=medium
+
+  [ Torsten Franz ]
+  * Fix typo in slideshow (LP: #1495212)
+
+ -- Michael Terry <mterry@ubuntu.com>  Wed, 16 Sep 2015 14:07:26 -0400
+
+ubiquity-slideshow-ubuntu (104) wily; urgency=medium
+
+  * Update version numbers to 15.10
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Thu, 10 Sep 2015 10:22:26 +0100
+
+ubiquity-slideshow-ubuntu (103) wily; urgency=medium
+
+  * More KDE VDG updates
+    - new email icon using the kontact icon as base
+    - new welcome.html artwork using a konqi icon by Tyson Tan under CC-SA-3.0
+    - replace background artwork with cardboard-grey solid color
+    - switch tile bottom border from color black to plasma-blue
+
+ -- Harald Sitter <sitter@kde.org>  Thu, 10 Sep 2015 00:25:07 +0200
+
+ubiquity-slideshow-ubuntu (102) wily; urgency=medium
+
+  * Change Kubuntu slideshow to use Oxygen sans font rather than ubuntu.
+
+ -- Harald Sitter <sitter@kde.org>  Wed, 09 Sep 2015 15:00:42 +0200
+
+ubiquity-slideshow-ubuntu (101) wily; urgency=medium
+
+  [ David Pires ]
+  * Update Xubuntu slideshow content for 15.10.
+
+  [ Pasi Lallinaho ]
+  * Use a CSS gradient for the background in the Xubuntu slide; no need for images any more.
+  * Add werewolfy art for the closing slide for Xubuntu.
+
+  [ Gunnar Hjalmarsson ]
+  * gethelp.html in ubuntu slideshow rewritten (LP: #1406972).
+
+  [ Harald Sitter ]
+  * Update Kubuntu artwork as instructed by KDE VDG.
+
+ -- Harald Sitter <sitter@kde.org>  Tue, 08 Sep 2015 19:58:17 +0200
+
+ubiquity-slideshow-ubuntu (100) wily; urgency=medium
+
+  * Add references and screenshot for Ubuntu MATE Welcome.
+    (changes from Martin Wimpress)
+
+ -- Mathieu Trudel-Lapierre <mathieu-tl@ubuntu.com>  Mon, 31 Aug 2015 13:37:45 -0400
+
+ubiquity-slideshow-ubuntu (99) wily; urgency=medium
+
+  * Update slideshow for Ubuntu GNOME 15.10 
+
+ -- Tim Lunn <tim@feathertop.org>  Sun, 30 Aug 2015 17:25:37 +1000
+
+ubiquity-slideshow-ubuntu (98) wily; urgency=medium
+
+  [ Martin Wimpress ]
+  * A few minor changes to the text in the Ubuntu MATE slides to remove
+    an errant scroll-bar and tweak up the language.
+
+ -- Didier Roche <didrocks@ubuntu.com>  Tue, 26 May 2015 10:59:53 +0200
+
 ubiquity-slideshow-ubuntu (97) vivid; urgency=medium
 
   [ Dylan McCall ]

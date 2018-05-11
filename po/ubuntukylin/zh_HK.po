@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
-"POT-Creation-Date: 2014-09-16 14:18+0800\n"
-"PO-Revision-Date: 2014-09-16 20:50+0800\n"
+"POT-Creation-Date: 2016-04-07 14:37+0800\n"
+"PO-Revision-Date: 2016-04-07 19:37+0800\n"
 "Last-Translator: Luo Lei <luolei@ubuntukylin.com>\n"
 "Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
 "Language: zh_HK\n"
@@ -58,34 +58,6 @@ msgid "wenxin:"
 msgstr "微信："
 
 #. type: Content of: <div><h1>
-#: slideshows/ubuntukylin/slides/kuaipan.html:1
-msgid "Kingsoft Kuaipan Client"
-msgstr "金山快盤"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntukylin/slides/kuaipan.html:8
-msgid ""
-"Kingsoft Kuaipan is a Linux cloud storage client jointly developed by Ubuntu "
-"Kylin Team and the Kingsoft Cloud Corp.. It provides file synchronization, "
-"backup, and sharing capabilities. You can manage your files across all OS "
-"now! You are welcome to install it via Ubuntu Kylin Software Center or <a "
-"href=\"http://www.ubuntukylin.com/\">www.ubuntukylin.com</a>."
-msgstr "Ubuntu Kylin 團隊與金山公司聯合開發的 Linux 版網盤客戶端，具備文件同步、備份和共享功能，爲用戶的個人文件提供安全可控、跨平台的一站式管理體驗！可通過軟件中心或<a href=\"http://www.ubuntukylin.com/\"> www.ubuntukylin.com </a>安裝使用。"
-
-#. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntukylin/slides/kuaipan.html:13
-#: slideshows/ubuntukylin/slides/software-center.html:13
-#: slideshows/ubuntukylin/slides/wps.html:12
-#: slideshows/ubuntukylin/slides/youker.html:11
-msgid "Included software"
-msgstr "包含軟件"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntukylin/slides/kuaipan.html:17
-msgid "kuaipan4uk"
-msgstr ""
-
-#. type: Content of: <div><h1>
 #: slideshows/ubuntukylin/slides/software-center.html:1
 msgid "Software Center"
 msgstr "軟件中心"
@@ -97,6 +69,13 @@ msgid ""
 "supports both Ubuntu and Ubuntu Kylin archives. You can enjoy popular "
 "Chinese applications co-developed by Ubuntu Kylin team!"
 msgstr "專爲中文用戶開發的軟件中心，界面簡潔，同時支持 Ubuntu 和 Ubuntu Kylin 軟件倉庫，便于快速安裝 Ubuntu Kylin 團隊爲您定制的商業軟件！"
+
+#. type: Content of: <div><div><div><h2>
+#: slideshows/ubuntukylin/slides/software-center.html:13
+#: slideshows/ubuntukylin/slides/wps.html:12
+#: slideshows/ubuntukylin/slides/youker.html:11
+msgid "Included software"
+msgstr "包含軟件"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntukylin/slides/software-center.html:17
@@ -116,7 +95,7 @@ msgid ""
 "with Windows, Mac version. You are welcome to install it via Ubuntu Kylin "
 "Software Center or <a href=\"http://www.ubuntukylin.com/\">www.ubuntukylin."
 "com</a>."
-msgstr "由 Ubuntu Kylin 團隊與搜狗公司聯合傾力打造，基于小企鵝輸入法框架，具備與 Windows、Mac 版本完全一致的用戶體驗，讓您的中文輸入鍵字如飛！可通過軟件中心或<a href=\"http://www.ubuntukylin.com/\"> www.ubuntukylin.com </a>安裝使用。"
+msgstr "由 Ubuntu Kylin 團隊與搜狗公司聯合傾力打造，基于小企鵝輸入法框架，具備與 Windows、Mac 版本完全一致的用戶體驗。新增雙拼，讓您的中文輸入鍵字如飛，壹鍵十行！可通過軟件中心或<a href=\"http://www.ubuntukylin.com/\"> www.ubuntukylin.com </a>安裝使用。"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntukylin/slides/sogou.html:12
@@ -145,8 +124,8 @@ msgstr "再次感謝您選擇 Ubuntu Kylin 操作系統，如果您想了解更�
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntukylin/slides/theme.html:1
-msgid "System customization"
-msgstr "系統定制"
+msgid "System beautify"
+msgstr "系統美化"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntukylin/slides/theme.html:8
@@ -157,8 +136,34 @@ msgid ""
 msgstr "專爲中文用戶定制的桌面主題，優美的系統主題，讓您體驗到我們在細節上所做的努力。"
 
 #. type: Content of: <div><h1>
+#: slideshows/ubuntukylin/slides/ukunity.html:1
+msgid "UI Customization"
+msgstr "UI定制"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntukylin/slides/ukunity.html:8
+msgid ""
+"It provides a more beautiful and concise login and lock screen interface for "
+"Ubuntu Kylin users. Besides, the launcher has been moved to the bottom of "
+"the screen, in order to meet the needs of different users."
+msgstr "爲Ubuntu Kylin用戶提供了一套更美觀簡潔的登錄與鎖屏界面。同時將桌面啓動器移到屏幕底部，以滿足更多各類不同用戶的使用習慣。"
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntukylin/slides/weixin.html:1
+msgid "Web WeChat Client"
+msgstr "微信網頁版客戶端"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntukylin/slides/weixin.html:8
+msgid ""
+"It is a convenient client which based on Web WeChat for Ubuntu Kylin users. "
+"You are welcome to install it via Ubuntu Kylin Software Center or <a href="
+"\"http://www.ubuntukylin.com/\">www.ubuntukylin.com</a>."
+msgstr "爲Ubuntu Kylin用戶提供了一個基于微信網頁版的客戶端，讓您可以更便捷的使用微信網頁版。可通過軟件中心或<a href=\"http://www.ubuntukylin.com/\"> www.ubuntukylin.com</a>安裝使用。"
+
+#. type: Content of: <div><h1>
 #: slideshows/ubuntukylin/slides/welcome.html:1
-msgid "Welcome to Ubuntu Kylin 15.04"
+msgid "Welcome to Ubuntu Kylin 16.04"
 msgstr "歡迎"
 
 #. type: Content of: <div><div><div><p>
@@ -167,8 +172,8 @@ msgid ""
 "Ubuntu Kylin is an official flavor of Ubuntu, specifically endeavored to "
 "tailor an open source desktop operating system with distinct Chinese "
 "characteristics, so as to allow its users to enjoy a thoughtful and fine "
-"user experience.This release version is 15.04."
-msgstr "Ubuntu Kylin 是 Ubuntu 官方中文衍生版，致力于創建更有中國味的開源桌面終端操作系統，爲您提供體貼、細膩的用戶體驗，本次發布的版本爲15.04。"
+"user experience. This release version is 16.04."
+msgstr "Ubuntu Kylin 是 Ubuntu 官方中文衍生版，致力于創建更有中國味的開源桌面終端操作系統，爲您提供體貼、細膩的用戶體驗，本次發布的版本爲16.04。"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntukylin/slides/welcome.html:9

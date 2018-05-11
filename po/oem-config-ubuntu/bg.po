@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-03-12 03:54+0200\n"
-"PO-Revision-Date: 2014-02-25 10:45+0000\n"
-"Last-Translator: Atanas Kovachki <Unknown>\n"
+"POT-Creation-Date: 2016-03-24 23:23+0200\n"
+"PO-Revision-Date: 2015-12-31 09:59+0000\n"
+"Last-Translator: Blagovest Petrov <blagovest@petrovs.info>\n"
 "Language-Team: Bulgarian <bg@li.org>\n"
 "Language: bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-04-05 17:28+0000\n"
-"X-Generator: Launchpad (build 17413)\n"
+"X-Launchpad-Export-Date: 2016-04-12 16:41+0000\n"
+"X-Generator: Launchpad (build 17990)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:1
@@ -105,34 +105,35 @@ msgstr "Chromium"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:1
-msgid "Any questions?"
-msgstr "Имате ли въпроси?"
+msgid "Help and support"
+msgstr "Помощ и поддръжка"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:8
 msgid ""
-"Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers to "
-"all your Ubuntu questions. There’s a good chance your question will have "
-"been answered already and, if not, you’ll find thousands of volunteers eager "
-"to help. For more support options, go to <a href=\"http://www.ubuntu.com/"
-"support\">ubuntu.com/support</a>."
+"The <span class=\"app\" data-app=\"docs\">Official documentation</span> "
+"covers many of the most common areas about Ubuntu. It's available both <a "
+"href=\"https://help.ubuntu.com\">online</a> and via the Ubuntu Help item in "
+"the System menu."
 msgstr ""
-"Посетете <a href=\"http://askubuntu.com/\">askubuntu.com</a> , за да "
-"намерите отговорите на всичките си въпроси, свързани с Убунту. Има "
-"вероятност вече да има отговор на вашия въпрос. Ако това не е така, ще "
-"можете да намерите хиляди доброволци, готови да помогнат. За повече въпроси "
-"относно поддръжката, посетете страницата <a href=\"http://www.ubuntu.com/"
-"support\">ubuntu.com/support</a>."
 
-#. type: Content of: <div><div><div><h2>
-#: slideshows/oem-config-ubuntu/slides/gethelp.html:17
-msgid "Let’s talk Ubuntu"
-msgstr "Нека поговорим за Убунту"
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu/slides/gethelp.html:12
+msgid ""
+"At <a href=\"http://askubuntu.com\">Ask Ubuntu</a> you can ask questions and "
+"search an impressive collection of already answered questions. Support in "
+"your own language may be provided by your <a href=\"http://loco.ubuntu.com/"
+"teams/\">Local Community Team</a>."
+msgstr ""
 
-#. type: Content of: <div><div><div><div>
-#: slideshows/oem-config-ubuntu/slides/gethelp.html:18
-msgid "I'm installing #Ubuntu!"
-msgstr "Инсталирам #Убунту!"
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu/slides/gethelp.html:16
+msgid ""
+"For pointers to other useful resources, please visit <a href=\"http://"
+"community.ubuntu.com/help-information/\">community.ubuntu.com/help-"
+"information</a> or <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
+"support</a>."
+msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/music.html:2
@@ -231,21 +232,16 @@ msgstr "Намерете още повече програми"
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/usc.html:8
 msgid ""
-"Say goodbye to searching the web for new software. With Ubuntu Software "
-"Center, you can find and install new apps with ease. Just type in what "
-"you’re looking for, or explore categories such as Science, Education and "
-"Games, alongside helpful reviews from other users."
+"Say goodbye to searching the web for new software. With access to the Ubuntu "
+"Software Store, you can find and install new apps with ease. Just type in "
+"what you’re looking for, or explore categories such as Science, Education "
+"and Games, alongside helpful reviews from other users."
 msgstr ""
-"Кажете довиждане на търсенето на нов софтуер в интернет. С «Убунту Софтуерен "
-"Център», ще можете да намерите и инсталирате нови приложения с лекота. "
-"Просто въведете това, което търсите или разгледайте категориите като "
-"«Наука», «Образование» и «Игри», заедно с полезни отзиви от други "
-"потребители."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/welcome.html:1
 msgid "Welcome to Ubuntu"
-msgstr ""
+msgstr "Добре дошли в Ubuntu"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/welcome.html:8
@@ -253,15 +249,18 @@ msgid ""
 "Fast and full of new features, the latest version of Ubuntu makes computing "
 "easier than ever. Here are just a few cool new things to look out for…"
 msgstr ""
-
-#~ msgid "Welcome"
-#~ msgstr "Добре дошли"
+"Бърза и пълна с нови възможности, последната версия на Убунту прави "
+"използването на компютри по- лесно от всякога. Това са само няколко от "
+"готините неща, които можете да разгледате..."
 
 #~ msgid ""
-#~ "Thank you for choosing Ubuntu 14.04. This version brings some exciting "
-#~ "changes including a totally redesigned desktop interface, Unity. While "
-#~ "Ubuntu is configured, this slideshow will show you around."
+#~ "Say goodbye to searching the web for new software. With Ubuntu Software "
+#~ "Center, you can find and install new apps with ease. Just type in what "
+#~ "you’re looking for, or explore categories such as Science, Education and "
+#~ "Games, alongside helpful reviews from other users."
 #~ msgstr ""
-#~ "Благодарим ви, че избрахте Убунту 14.04. Тази версия предоставя някои "
-#~ "вълнуващи промени, включително напълно обновения десктоп интерфейс на "
-#~ "Юнити. Докато Убунту се конфигурира, това слайдшоу ще ви разведа наоколо."
+#~ "Кажете довиждане на търсенето на нов софтуер в интернет. С «Убунту "
+#~ "Софтуерен Център», ще можете да намерите и инсталирате нови приложения с "
+#~ "лекота. Просто въведете това, което търсите или разгледайте категориите "
+#~ "като «Наука», «Образование» и «Игри», заедно с полезни отзиви от други "
+#~ "потребители."

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-12 03:54+0200\n"
+"POT-Creation-Date: 2016-03-24 23:23+0200\n"
 "PO-Revision-Date: 2014-08-28 07:41+0000\n"
 "Last-Translator: meequz <meequz@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -26,11 +26,9 @@ msgstr "Вітаем ва Ubuntu MATE"
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/01_welcome.html:8
 msgid ""
-"Ubuntu MATE is a Linux operating system based on Ubuntu and the MATE Desktop "
-"environment."
+"A community developed Ubuntu based operating system that beautifully "
+"integrates the MATE desktop."
 msgstr ""
-"Ubuntu MATE - гэта аперацыйная сістэма, якая грунтуецца на Linux, Ubuntu і "
-"працоўным асяроддзі MATE."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/02_about.html:1
@@ -39,12 +37,13 @@ msgstr "Пра сістэму"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/02_about.html:8
+#, fuzzy
 msgid ""
 "Ubuntu MATE is a stable, easy-to-use operating system with a configurable "
 "desktop environment. Ideal for those who want the most out of their "
-"desktops, laptops and netbooks and prefer a traditional desktop metaphor. "
-"With modest hardware requirements it is suitable for modern workstations and "
-"older hardware alike."
+"computers and prefer a traditional desktop metaphor. With modest hardware "
+"requirements it is suitable for modern workstations, single board computers "
+"and older hardware alike."
 msgstr ""
 "Ubuntu MATE - стабільная, простая ў карыстанні аперацыйная сістэма з гнуткім "
 "у настáўленні працоўным асяроддзем. Ідэальна пасуе тым, хто імкнецца "
@@ -53,17 +52,17 @@ msgstr ""
 "машынах, бо мае сціплыя патрабаванні да абсталявання."
 
 #. type: Content of: <div><h1>
-#: slideshows/ubuntu-mate/slides/03_usc.html:1
+#: slideshows/ubuntu-mate/slides/03_welcome.html:1
 msgid "Find even more software"
 msgstr "Дадатковыя праграмы"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu-mate/slides/03_usc.html:7
+#: slideshows/ubuntu-mate/slides/03_welcome.html:7
+#, fuzzy
 msgid ""
-"Say goodbye to searching the web for new software. With Ubuntu Software "
-"Center, you can find and install new apps with ease. Just type in what "
-"you're looking for, or explore categories such as Science, Education and "
-"Games, alongside helpful reviews from other users."
+"Say goodbye to searching the web for new software. With Ubuntu MATE Welcome, "
+"you can install popular applications with one click. You can also install "
+"software centres to discover even more applications for Ubuntu MATE."
 msgstr ""
 "Забудзьцеся на пошук праграм у сеціве. З дапамогай Праграмнага цэнтра Ubuntu "
 "можна лёгка знайсці і ўсталяваць новы софт. Проста набярыце слова для пошуку "
@@ -71,7 +70,7 @@ msgstr ""
 "Таксама карыснымі будуць водгукі іншых карыстальнікаў."
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu-mate/slides/03_usc.html:11
+#: slideshows/ubuntu-mate/slides/03_welcome.html:11
 #: slideshows/ubuntu-mate/slides/04_music.html:11
 #: slideshows/ubuntu-mate/slides/05_photos.html:12
 #: slideshows/ubuntu-mate/slides/06_browse.html:12
@@ -80,24 +79,30 @@ msgid "Included software"
 msgstr "Уключаныя праграмы"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu-mate/slides/03_usc.html:15
-msgid "Ubuntu Software Center"
-msgstr "Праграмны цэнтр Ubuntu"
+#: slideshows/ubuntu-mate/slides/03_welcome.html:15
+msgid "Ubuntu MATE Welcome"
+msgstr ""
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu-mate/slides/03_usc.html:18
+#: slideshows/ubuntu-mate/slides/03_welcome.html:18
+#: slideshows/ubuntu-mate/slides/04_music.html:18
 #: slideshows/ubuntu-mate/slides/05_photos.html:23
-#: slideshows/ubuntu-mate/slides/06_browse.html:24
+#: slideshows/ubuntu-mate/slides/06_browse.html:23
 msgid "Supported software"
 msgstr "Падтрымліваюцца праграмы"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu-mate/slides/03_usc.html:22
+#: slideshows/ubuntu-mate/slides/03_welcome.html:22
+msgid "Ubuntu Software Center"
+msgstr "Праграмны цэнтр Ubuntu"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-mate/slides/03_welcome.html:26
 msgid "Synaptic Package Manager"
 msgstr "Synaptic, кіраўнік пакетаў"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu-mate/slides/03_usc.html:26
+#: slideshows/ubuntu-mate/slides/03_welcome.html:30
 msgid "GDebi Package Installer"
 msgstr "GDebi, усталёўнік пакетаў"
 
@@ -124,18 +129,29 @@ msgstr ""
 msgid "Rhythmbox Music Player"
 msgstr "Rhythmbox, музычны плэер"
 
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-mate/slides/04_music.html:22
+msgid "Banshee Media Player"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-mate/slides/04_music.html:26
+msgid "VLC Media Player"
+msgstr ""
+
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/05_photos.html:1
-msgid "Have fun with your photos"
+#, fuzzy
+msgid "Organise your photos"
 msgstr "Атрымлівайце асалоду ад вашых фотаздымкаў"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/05_photos.html:8
+#, fuzzy
 msgid ""
 "Shotwell is a handy photo manager that is ready for your gadgets. Connect a "
 "camera or a phone to transfer your photos, then it's easy to share them and "
-"keep them safe. If you're feeling creative, you can try lots of photo apps "
-"from the Ubuntu Software Center."
+"keep them safe."
 msgstr ""
 "Shotwell - зручны кіраўнік фотаздымкаў, які будзе працаваць з вашымі "
 "прыладамі. Падлучыце камеру ці тэлефон, каб перакінуць здымкі, каб імі было "
@@ -164,11 +180,11 @@ msgstr "Усё для інтэрнэту"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/06_browse.html:8
+#, fuzzy
 msgid ""
-"Ubuntu MATE includes Firefox, the web browser used by millions of people "
-"around the world. And web applications you use frequently (like Facebook or "
-"Gmail, for example) can be pinned to your desktop for faster access, just "
-"like apps on your computer."
+"Ubuntu MATE includes Firefox, an easy and safe web browser used by millions "
+"of people around the world. Designed with privacy in mind it includes "
+"enhanced security features to protect you from online threats."
 msgstr ""
 "У складзе Ubuntu MATE ёсць Firefox, вэб-браўзэр, якім карыстаюцца мільёны "
 "людзей па ўсім свеце. Папулярныя вэб-праграмы (кшталту Facebook ці Gmail, "
@@ -177,7 +193,8 @@ msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/06_browse.html:16
-msgid "Firefox web browser"
+#, fuzzy
+msgid "Firefox Web Browser"
 msgstr "Firefox, вэб-браўзэр"
 
 #. type: Content of: <div><div><div><ul><li><p>
@@ -186,7 +203,7 @@ msgid "Thunderbird Mail"
 msgstr "Thunderbird, паштавік"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu-mate/slides/06_browse.html:28
+#: slideshows/ubuntu-mate/slides/06_browse.html:27
 msgid "Chromium"
 msgstr "Chromium"
 
@@ -224,7 +241,8 @@ msgstr "LibreOffice Impress"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/08_accessibility.html:1
-msgid "Access for everyone"
+#, fuzzy
+msgid "Accessible for everyone"
 msgstr "Даступнасць для ўсіх"
 
 #. type: Content of: <div><div><div><p>
@@ -263,22 +281,27 @@ msgstr "Моўная падтрымка"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/09_community.html:1
-msgid "Community"
-msgstr "Супольнасць"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu-mate/slides/09_community.html:8
-msgid ""
-"We have a number of ways you can connect with the Ubuntu MATE community."
-msgstr "Для камунікацыі з супольнасцю Ubuntu MATE ёсць некалькі спосабаў."
+msgid "Join the community"
+msgstr ""
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu-mate/slides/09_community.html:12
+#: slideshows/ubuntu-mate/slides/09_community.html:8
 msgid "Discussion"
 msgstr "Абмеркаванні"
 
 #. type: Content of: <div><div><div><ul><li>
+#: slideshows/ubuntu-mate/slides/09_community.html:12
+#, fuzzy
+msgid ""
+"<a href=\"https://ubuntu-mate.community\" class=\"caption\">Ubuntu MATE "
+"Community</a>"
+msgstr ""
+"<a href=\"https://launchpad.net/ubuntu-mate\" class=\"caption\">Праект "
+"Ubuntu MATE</a>"
+
+#. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntu-mate/slides/09_community.html:16
+#, fuzzy
 msgid ""
 "<a href=\"https://plus.google.com/communities/108331279007926658904\" class="
 "\"caption\">Google+ Community</a>"
@@ -288,8 +311,9 @@ msgstr ""
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntu-mate/slides/09_community.html:20
+#, fuzzy
 msgid ""
-"<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">IRC channel</a>"
+"<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">IRC Channel</a>"
 msgstr ""
 "<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">IRC-канал</a>"
 
@@ -300,16 +324,19 @@ msgstr "Анонсы навінаў"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntu-mate/slides/09_community.html:27
+#, fuzzy
 msgid ""
-"<a href=\"http://ubuntu-mate.net/rss.xml\" class=\"caption\">RSS Feed</a>"
+"<a href=\"https://twitter.com/ubuntu_mate\" class=\"caption\">Twitter</a>"
 msgstr ""
-"<a href=\"http://ubuntu-mate.net/rss.xml\" class=\"caption\">RSS-стужка</a>"
+"<a href=\"https://twitter.com/ubuntu_mate\" class=\"caption\">Twitter-"
+"стужка</a>"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntu-mate/slides/09_community.html:31
+#, fuzzy
 msgid ""
-"<a href=\"https://twitter.com/ubuntu_mate\" class=\"caption\">Twitter Feed</"
-"a>"
+"<a href=\"https://www.facebook.com/UbuntuMATEedition\" class=\"caption"
+"\">Facebook</a>"
 msgstr ""
 "<a href=\"https://twitter.com/ubuntu_mate\" class=\"caption\">Twitter-"
 "стужка</a>"
@@ -321,9 +348,10 @@ msgstr "Распрацоўка"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntu-mate/slides/09_community.html:38
+#, fuzzy
 msgid ""
 "<a href=\"https://launchpad.net/ubuntu-mate\" class=\"caption\">Ubuntu MATE "
-"Project</a>"
+"Launchpad</a>"
 msgstr ""
 "<a href=\"https://launchpad.net/ubuntu-mate\" class=\"caption\">Праект "
 "Ubuntu MATE</a>"
@@ -336,3 +364,23 @@ msgid ""
 msgstr ""
 "<a href=\"https://bugs.launchpad.net/ubuntu-mate\" class=\"caption"
 "\">Багтрэкер</a>"
+
+#~ msgid "Community"
+#~ msgstr "Супольнасць"
+
+#~ msgid ""
+#~ "We have a number of ways you can connect with the Ubuntu MATE community."
+#~ msgstr "Для камунікацыі з супольнасцю Ubuntu MATE ёсць некалькі спосабаў."
+
+#~ msgid ""
+#~ "Ubuntu MATE is a Linux operating system based on Ubuntu and the MATE "
+#~ "Desktop environment."
+#~ msgstr ""
+#~ "Ubuntu MATE - гэта аперацыйная сістэма, якая грунтуецца на Linux, Ubuntu "
+#~ "і працоўным асяроддзі MATE."
+
+#~ msgid ""
+#~ "<a href=\"http://ubuntu-mate.net/rss.xml\" class=\"caption\">RSS Feed</a>"
+#~ msgstr ""
+#~ "<a href=\"http://ubuntu-mate.net/rss.xml\" class=\"caption\">RSS-стужка</"
+#~ "a>"

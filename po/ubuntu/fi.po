@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-03-12 03:53+0200\n"
-"PO-Revision-Date: 2015-02-15 08:46+0000\n"
+"POT-Creation-Date: 2016-03-24 23:23+0200\n"
+"PO-Revision-Date: 2016-03-29 16:12+0000\n"
 "Last-Translator: Jiri Grönroos <Unknown>\n"
 "Language-Team: Finnish <fi@li.org>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-04-05 17:28+0000\n"
-"X-Generator: Launchpad (build 17413)\n"
+"X-Launchpad-Export-Date: 2016-04-12 16:41+0000\n"
+"X-Generator: Launchpad (build 17990)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/accessibility.html:1
@@ -106,33 +106,46 @@ msgstr "Chromium"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/gethelp.html:1
-msgid "Any questions?"
-msgstr "Kysyttävää?"
+msgid "Help and support"
+msgstr "Ohjeet ja tuki"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/gethelp.html:8
 msgid ""
-"Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers to "
-"all your Ubuntu questions. There’s a good chance your question will have "
-"been answered already and, if not, you’ll find thousands of volunteers eager "
-"to help. For more support options, go to <a href=\"http://www.ubuntu.com/"
-"support\">ubuntu.com/support</a>."
+"The <span class=\"app\" data-app=\"docs\">Official documentation</span> "
+"covers many of the most common areas about Ubuntu. It's available both <a "
+"href=\"https://help.ubuntu.com\">online</a> and via the Ubuntu Help item in "
+"the System menu."
 msgstr ""
-"Ubuntu-kysymyksiä ja niihin vastauksia löytyy englanninkieliseltä <a href="
-"\"http://askubuntu.com/\">askubuntu.com</a>-sivustolta. Kysymykseesi saattaa "
-"olla vastaus valmiina, mutta jos ei ole, tuhannet ihmiset ovat valmiita "
-"auttamaan. Suomenkielisestä tuesta löytyy lisätietoja osoitteesta <a href="
-"\"http://www.ubuntu-fi.org\">ubuntu-fi.org</a>."
+"<span class=\"app\" data-app=\"docs\">Virallinen dokumentaatio</span> kattaa "
+"yleisimmät Ubuntun aihealueet. Dokumentaatio on saatavilla <a href=\"https://"
+"help.ubuntu.com\">verkossa</a> ja Ubuntun järjestelmävalikosta nimellä "
+"Ubuntu-ohje."
 
-#. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu/slides/gethelp.html:17
-msgid "Let’s talk Ubuntu"
-msgstr "Puhutaanpa Ubuntusta"
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu/slides/gethelp.html:12
+msgid ""
+"At <a href=\"http://askubuntu.com\">Ask Ubuntu</a> you can ask questions and "
+"search an impressive collection of already answered questions. Support in "
+"your own language may be provided by your <a href=\"http://loco.ubuntu.com/"
+"teams/\">Local Community Team</a>."
+msgstr ""
+"<a href=\"http://askubuntu.com\">Ask Ubuntu</a> -palvelussa on mahdollista "
+"kysyä kysymyksiä ja selata suurta määrää aiempia vastauksia kysymyksiin. "
+"Tukea omalla kielelläsi voi löytyä <a href=\"http://loco.ubuntu.com/teams/"
+"\">Ubuntun paikallistiimin</a> kautta."
 
-#. type: Content of: <div><div><div><div>
-#: slideshows/ubuntu/slides/gethelp.html:18
-msgid "I'm installing #Ubuntu!"
-msgstr "#Ubuntu - asennan sitä nyt!"
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu/slides/gethelp.html:16
+msgid ""
+"For pointers to other useful resources, please visit <a href=\"http://"
+"community.ubuntu.com/help-information/\">community.ubuntu.com/help-"
+"information</a> or <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
+"support</a>."
+msgstr ""
+"Lisätietoja muista avunlähteistä osoitteessa <a href=\"http://community."
+"ubuntu.com/help-information/\">community.ubuntu.com/help-information</a> ja "
+"<a href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/music.html:2
@@ -230,16 +243,16 @@ msgstr "Löydä upeita sovelluksia"
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/usc.html:8
 msgid ""
-"Say goodbye to searching the web for new software. With Ubuntu Software "
-"Center, you can find and install new apps with ease. Just type in what "
-"you’re looking for, or explore categories such as Science, Education and "
-"Games, alongside helpful reviews from other users."
+"Say goodbye to searching the web for new software. With access to the Ubuntu "
+"Software Store, you can find and install new apps with ease. Just type in "
+"what you’re looking for, or explore categories such as Science, Education "
+"and Games, alongside helpful reviews from other users."
 msgstr ""
-"Ohjelmien etsiminen ja latailu epäilyttäviltä verkkosivuilta on historiaa. "
-"Ubuntun sovellusvalikoiman avulla sovelluksien etsiminen ja asentaminen "
-"sujuu vaivatta. Etsi suoraan sovelluksen nimellä tai avainsanalla tai selaa "
-"eri luokkia, kuten tiede, koulutus ja pelit. Muiden käyttäjien antamat "
-"arvostelut helpottavat valintaasi."
+"Ohjelmien etsiminen ja lataaminen epäilyttäviltä verkkosivuilta on "
+"historiaa. Pääsy Ubuntun sovellusvalikoimaan mahdollistaa sovelluksien "
+"etsimisen ja asentamisen vaivatta. Etsi suoraan sovelluksen nimellä tai "
+"avainsanalla tai selaa eri luokkia, kuten tiede, koulutus ja pelit. Muiden "
+"käyttäjien antamat arvostelut helpottavat valintaasi."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/welcome.html:1
@@ -256,5 +269,25 @@ msgstr ""
 "tietokoneen käyttämisestä helpompaa kuin koskaan ennen. Kiinnitä seuraaviin "
 "asioihin huomiota, kun tutustut uuteen käyttöjärjestelmääsi..."
 
-#~ msgid "Welcome to Ubuntu 14.04"
-#~ msgstr "Tervetuloa, tämä on Ubuntu 14.04"
+#~ msgid ""
+#~ "Say goodbye to searching the web for new software. With Ubuntu Software "
+#~ "Center, you can find and install new apps with ease. Just type in what "
+#~ "you’re looking for, or explore categories such as Science, Education and "
+#~ "Games, alongside helpful reviews from other users."
+#~ msgstr ""
+#~ "Ohjelmien etsiminen ja latailu epäilyttäviltä verkkosivuilta on "
+#~ "historiaa. Ubuntun sovellusvalikoiman avulla sovelluksien etsiminen ja "
+#~ "asentaminen sujuu vaivatta. Etsi suoraan sovelluksen nimellä tai "
+#~ "avainsanalla tai selaa eri luokkia, kuten tiede, koulutus ja pelit. "
+#~ "Muiden käyttäjien antamat arvostelut helpottavat valintaasi."
+
+#~ msgid ""
+#~ "The <span class=\"app\" data-app=\"docs\">Official documentation</span> "
+#~ "covers many of the most common areas about Ubuntu. It's available both <a "
+#~ "href=\"https://help.ubuntu.com\">online</a> and via the Ubuntu Help item "
+#~ "in the System meny."
+#~ msgstr ""
+#~ "The <span class=\"app\" data-app=\"docs\">Virallisissa ohjeissa</span> "
+#~ "käydään läpi yleisimmät Ubuntu osa-alueet. Se on saatavilla sekä <a href="
+#~ "\"https://help.ubuntu.com\">verkossa</a> että Järjestelmä-valikon "
+#~ "Ohjekeskus-valinnan kautta."
