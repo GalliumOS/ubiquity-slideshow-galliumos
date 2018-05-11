@@ -1,3 +1,259 @@
+ubiquity-slideshow-ubuntu (138) bionic; urgency=medium
+
+  * Update translations from Launchpad (LP: #1767048).
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Thu, 26 Apr 2018 12:10:55 +0100
+
+ubiquity-slideshow-ubuntu (137) bionic; urgency=medium
+
+  * Fix the Kubuntu slideshow so the back arrow doesn't look like a slide
+    advancement (LP: #1761592).
+
+ -- Simon Quigley <tsimonq2@ubuntu.com>  Sun, 22 Apr 2018 00:57:07 -0500
+
+ubiquity-slideshow-ubuntu (136) bionic; urgency=medium
+
+  [ Jean-Baptiste Lallement ]
+  * Kubuntu slideshow FTBFS:
+    - Fixed closing div tag (LP: #1760035)
+
+ -- Jean-Baptiste Lallement <jean-baptiste.lallement@ubuntu.com>  Fri, 30 Mar 2018 09:41:27 +0200
+
+ubiquity-slideshow-ubuntu (135) bionic; urgency=medium
+
+  [ Will Cooke ]
+  * Updates for Ubuntu Desktop 18.04 (LP: #1759601)
+    - Added Beaver welcome graphics source.
+    - Updated screenshots to 18.04.
+    - Updated usc.html to include mention of the snap store.
+
+  [ Jean-Baptiste Lallement ]
+    - Refreshed pot files for ubuntu and oem-config-ubuntu
+    - Fixed broken link music.jpg for oem-config-ubuntu
+
+  [ Aaron Honeycutt ]
+  * Refreshed Kubuntu slideshow for 18.04.
+
+ -- Mathieu Trudel-Lapierre <cyphermox@ubuntu.com>  Thu, 29 Mar 2018 13:52:49 -0400
+
+ubiquity-slideshow-ubuntu (134) bionic; urgency=medium
+
+  [ Jeremy Bicha ]
+  * Switch from cdbs to dh
+  * Bump debhelper compat to 11
+  * Bump Standards-Version to 4.1.2
+  * Drop useless debian/source/options (default xz compression is fine)
+
+  [ Pasi Lallinaho ]
+  * Update slides for Xubuntu 18.04
+
+ -- Jeremy Bicha <jbicha@debian.org>  Mon, 25 Dec 2017 10:09:01 -0500
+
+ubiquity-slideshow-ubuntu (133) artful; urgency=medium
+
+  * Update translations from launchpad.
+
+ -- Mathieu Trudel-Lapierre <cyphermox@ubuntu.com>  Tue, 17 Oct 2017 12:20:54 -0400
+
+ubiquity-slideshow-ubuntu (132) artful; urgency=medium
+
+  [ Jeremy Bicha ]
+  * Drop ubiquity-slideshow-ubuntu-gnome
+
+  [ Rafael Laguna (Redwolf) ]
+  * Updated Lubuntu slideshow for different apps in 17.10:
+    - Gnome-Mplayer -> Gnome MPV
+    - Flash -> Qupzilla
+
+  [ Liu Peng ]
+  * Fix a character rendering issue due to text size for the zh version of the
+    Ubuntu Kylin slideshow: "专" showed imcompletely. (LP: #1719813)
+
+  [ Martin Wimpress ]
+  * Update screenshots for the Ubuntu MATE flavour.
+
+  [ Mathieu Trudel-Lapierre ]
+  * Update translations from Launchpad.
+  * Hand-edited translations and slideshow slides where necessary to refer to
+    17.10 rather than 17.04.
+  * Drop stray remaining mentions of ubuntu-gnome.
+
+ -- Mathieu Trudel-Lapierre <cyphermox@ubuntu.com>  Sun, 08 Oct 2017 12:34:45 -0400
+
+ubiquity-slideshow-ubuntu (131) artful; urgency=medium
+
+  * po/ubuntukylin/en_GB.po: Manually fix up syntax error.
+
+ -- Iain Lane <iain.lane@canonical.com>  Mon, 25 Sep 2017 22:37:49 +0100
+
+ubiquity-slideshow-ubuntu (130) artful; urgency=medium
+
+  [ Aaron Honeycutt ]
+  * Small enhancements to the Kubuntu slideshow.
+
+  [ liupeng ]
+  * Update UbuntuKylin slideshow for 17.10.
+
+  [ Will Cooke ]
+  * Update Ubuntu slideshow for 17.10.
+  * Aardvarkify the slideshow. (LP: #1717309)
+
+ -- Mathieu Trudel-Lapierre <cyphermox@ubuntu.com>  Wed, 20 Sep 2017 10:06:42 -0400
+
+ubiquity-slideshow-ubuntu (129) artful; urgency=medium
+
+  [ Pasi Lallinaho ]
+  * Update Xubuntu slideshow to 17.10.
+
+  [ Martin Wimpress ]
+  * Update Ubuntu MATE slideshow for 17.10.
+
+  [ Mathieu Trudel-Lapierre ]
+  * Hand edit translations, update templates to remove duplicates.
+
+ -- Mathieu Trudel-Lapierre <cyphermox@ubuntu.com>  Mon, 28 Aug 2017 19:30:42 -0400
+
+ubiquity-slideshow-ubuntu (128) artful; urgency=medium
+
+  [ David Mohammed ]
+  * Updates to Ubuntu Budgie slideshow:
+    - Wording and picture changes for 17.10
+    - Adding an oem-config slideshow package for Ubuntu Budgie.
+
+  [ Aaron Honeycutt ]
+  * Updates to Kubuntu slideshow for 17.10.
+
+  [ Mathieu Trudel-Lapierre ]
+  * Update all translation templates.
+  * Generate an initial en_CA translation to allow the budgie OEM slideshow
+    to build.
+
+ -- Mathieu Trudel-Lapierre <cyphermox@ubuntu.com>  Fri, 18 Aug 2017 17:10:39 -0400
+
+ubiquity-slideshow-ubuntu (127) artful; urgency=medium
+
+  * Fix html syntax for the Kubuntu slides to be valid.
+
+ -- Mathieu Trudel-Lapierre <cyphermox@ubuntu.com>  Thu, 25 May 2017 14:10:35 -0400
+
+ubiquity-slideshow-ubuntu (126) artful; urgency=medium
+
+  [ Aaron Honeycutt ]
+  * Update Kubuntu slideshow for 17.10.
+
+ -- Mathieu Trudel-Lapierre <cyphermox@ubuntu.com>  Wed, 24 May 2017 19:35:09 -0400
+
+ubiquity-slideshow-ubuntu (125) zesty; urgency=medium
+
+  * Update Xubuntu thank you slide's animal artwork.
+
+ -- Pasi Lallinaho <pasi@shimmerproject.org>  Tue, 11 Apr 2017 18:59:59 -0400
+
+ubiquity-slideshow-ubuntu (124) zesty; urgency=medium
+
+  [ Aaron Honeycutt ]
+  * Kubuntu slideshow fixes: (LP: #1681146)
+    - KDE SC to KDE Applications
+    - changed contribute link to d.k.org
+    - Muon Discover renamed to Discover
+
+  [ Mathieu Trudel-Lapierre ]
+  * More slideshow grammar / translation fixes for Kubuntu.
+
+ -- Mathieu Trudel-Lapierre <cyphermox@ubuntu.com>  Mon, 10 Apr 2017 12:22:56 -0400
+
+ubiquity-slideshow-ubuntu (123) zesty; urgency=medium
+
+  [ Rafael Laguna ]
+  * Update Lubuntu slideshow: remove mentions of Ubuntu version and update
+    slides for website, Software changes. (LP: #1645564)
+
+  [ Mathieu Trudel-Lapierre ]
+  * po/ubuntukylin/slideshow-ubuntukylin.pot; po/ubuntukylin/zh_CN.po: fix
+    simplified Chinese translations again: reapply the translations from
+    ShuiLu Pi that got mangled when I applied the Launchpad export.
+
+ -- Mathieu Trudel-Lapierre <cyphermox@ubuntu.com>  Mon, 03 Apr 2017 15:24:23 -0400
+
+ubiquity-slideshow-ubuntu (122) zesty; urgency=medium
+
+  [ Jeremy Bicha ]
+  * Update version strings to 17.04 (LP: #1667473)
+
+  [ David Pires ]
+  * Typo and string fixes for Xubuntu slideshow.
+
+  [ ShuiLu Pi ]
+  * Update UbuntuKylin slideshow for 17.04.
+
+  [ Mathieu Trudel-Lapierre ]
+  * Update translations from Launchpad.
+  * Mangle translation strings for 17.04.
+
+ -- Mathieu Trudel-Lapierre <cyphermox@ubuntu.com>  Mon, 27 Mar 2017 20:14:08 -0400
+
+ubiquity-slideshow-ubuntu (121) zesty; urgency=medium
+
+  [ Will Cooke ]
+  * Updated mascot for new release.
+
+ -- Mathieu Trudel-Lapierre <cyphermox@ubuntu.com>  Mon, 20 Mar 2017 11:57:46 -0400
+
+ubiquity-slideshow-ubuntu (120) zesty; urgency=medium
+
+  [ Aaron Honeycutt ]
+  * Port Kubuntu slideshow to Qt5.
+  * Update Kubuntu slideshow for 17.04.
+
+ -- Mathieu Trudel-Lapierre <cyphermox@ubuntu.com>  Thu, 23 Feb 2017 16:05:30 -0500
+
+ubiquity-slideshow-ubuntu (119) zesty; urgency=medium
+
+  [ David Mohammed ]
+  * Add slideshow for Ubuntu-Budgie. (LP: #1644976)
+
+  [ Mathieu Trudel-Lapierre ]
+  * Update translatable strings and seed the ubuntu-budgie translations.
+
+ -- Mathieu Trudel-Lapierre <cyphermox@ubuntu.com>  Thu, 19 Jan 2017 15:57:16 -0500
+
+ubiquity-slideshow-ubuntu (118) yakkety; urgency=medium
+
+  [ Will Cooke ]
+  * Refreshed "Access for everyone" screenshot. (LP: #1632133)
+
+ -- Mathieu Trudel-Lapierre <cyphermox@ubuntu.com>  Tue, 11 Oct 2016 13:20:28 -0400
+
+ubiquity-slideshow-ubuntu (117) yakkety; urgency=medium
+
+  [ ShuiLu Pi ]
+  * Update UbuntuKylin slideshow.
+
+ -- Mathieu Trudel-Lapierre <cyphermox@ubuntu.com>  Mon, 10 Oct 2016 09:34:55 -0400
+
+ubiquity-slideshow-ubuntu (116) yakkety; urgency=medium
+
+  * Update animal art on the last slide of the Xubuntu slideshow.
+
+ -- Pasi Lallinaho <pasi@shimmerproject.org>  Wed, 05 Oct 2016 10:02:33 -0400
+
+ubiquity-slideshow-ubuntu (115) yakkety; urgency=medium
+
+  [ Alfredo Hernández ]
+  * Updated Ubuntu GNOME 16.10 screenshots and welcome screen
+
+  [ Mathieu Trudel-Lapierre ]
+  * Updated version strings to 16.10 for all other flavors.
+
+ -- Mathieu Trudel-Lapierre <cyphermox@ubuntu.com>  Tue, 13 Sep 2016 12:03:24 -0400
+
+ubiquity-slideshow-ubuntu (114) yakkety; urgency=medium
+
+  [ Will Cooke ]
+  * Added Yakkety mascot to welcome screen.
+
+ -- Mathieu Trudel-Lapierre <cyphermox@ubuntu.com>  Mon, 12 Sep 2016 14:26:25 -0400
+
 ubiquity-slideshow-ubuntu (113) xenial; urgency=medium
 
   * New slideshow for Ubuntu Studio (LP:#1569005)

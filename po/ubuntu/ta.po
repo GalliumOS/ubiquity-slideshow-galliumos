@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2016-03-24 23:23+0200\n"
-"PO-Revision-Date: 2015-04-16 12:36+0000\n"
+"POT-Creation-Date: 2018-04-26 12:04+0100\n"
+"PO-Revision-Date: 2017-03-02 04:57+0000\n"
 "Last-Translator: Arun Kumar - அருண் குமார் <thangam.arunx@gmail.com>\n"
 "Language-Team: Tamil <ta@li.org>\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2016-04-12 16:41+0000\n"
-"X-Generator: Launchpad (build 17990)\n"
+"X-Launchpad-Export-Date: 2018-04-26 10:42+0000\n"
+"X-Generator: Launchpad (build 18623)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/accessibility.html:1
@@ -105,15 +105,15 @@ msgstr "குரோமியம்"
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/gethelp.html:1
 msgid "Help and support"
-msgstr ""
+msgstr "உதவியும் ஆதரவும்"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/gethelp.html:8
 msgid ""
 "The <span class=\"app\" data-app=\"docs\">Official documentation</span> "
 "covers many of the most common areas about Ubuntu. It's available both <a "
-"href=\"https://help.ubuntu.com\">online</a> and via the Ubuntu Help item in "
-"the System menu."
+"href=\"https://help.ubuntu.com\">online</a> and via the Help icon in the "
+"Dock."
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
@@ -128,10 +128,9 @@ msgstr ""
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/gethelp.html:16
 msgid ""
-"For pointers to other useful resources, please visit <a href=\"http://"
-"community.ubuntu.com/help-information/\">community.ubuntu.com/help-"
-"information</a> or <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
-"support</a>."
+"For pointers to other useful resources, please visit <a href=\"https://www."
+"ubuntu.com/support/community-support\">Community support</a> or <a href="
+"\"http://www.ubuntu.com/support\">Commercial support</a>."
 msgstr ""
 
 #. type: Content of: <div><h1>
@@ -230,10 +229,11 @@ msgstr "மேலும் தேவையான மென்பொருள�
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/usc.html:8
 msgid ""
-"Say goodbye to searching the web for new software. With access to the Ubuntu "
-"Software Store, you can find and install new apps with ease. Just type in "
-"what you’re looking for, or explore categories such as Science, Education "
-"and Games, alongside helpful reviews from other users."
+"Say goodbye to searching the web for new software. With access to the Snap "
+"Store and the Ubuntu software archive, you can find and install new apps "
+"with ease. Just type in what you’re looking for, or explore categories such "
+"as Graphics & Photography, Games and Productivity, alongside helpful reviews "
+"from other users."
 msgstr ""
 
 #. type: Content of: <div><h1>
@@ -250,14 +250,3 @@ msgstr ""
 "அதிவேக மறறும் முற்றிலும் பதிய வசதிகளுடன் உபுண்டுவின் அண்மைய வெளியீடு மிகவும் எளிய "
 "நடையில் இதுவரை இல்லாதவாறு கணினியுகத்தை உருக்கிருக்கிறது. இங்க நீங்கள் பார்ப்பது சிலவற்ற "
 "மட்டுமே..."
-
-#~ msgid ""
-#~ "Say goodbye to searching the web for new software. With Ubuntu Software "
-#~ "Center, you can find and install new apps with ease. Just type in what "
-#~ "you’re looking for, or explore categories such as Science, Education and "
-#~ "Games, alongside helpful reviews from other users."
-#~ msgstr ""
-#~ "புதிய மென்பொருட்களை தேட இணையத்தை நாடுவதற்கு டாட்டா காட்டுங்கள். உபுண்டு மென்பொருள் "
-#~ "மையத்தின் மூலம் நீங்கள் எளிமையாக சுலபமாக பயன்பாடுகளை நிறுவ முடியும். நீங்க தேட "
-#~ "நினைக்கும் மென்பொருள் பற்றி வார்த்தையை தட்டினால் போதும் அது கல்வி, அறிவியல், மற்றும் "
-#~ "விளையாட்டு போன்ற வகைகளில் மற்ற பயனர்களின் கருத்துக்களுடன் காட்டப்படும்."

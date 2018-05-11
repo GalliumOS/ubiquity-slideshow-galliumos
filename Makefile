@@ -7,11 +7,12 @@ SLIDESHOWS = \
 	lubuntu \
 	edubuntu \
 	ubuntustudio \
-	ubuntu-gnome \
+	ubuntu-budgie \
 	ubuntukylin \
 	ubuntu-mate \
 	oem-config-ubuntu \
-	oem-config-ubuntu-mate
+	oem-config-ubuntu-mate \
+	oem-config-ubuntu-budgie
 
 SOURCE ?= .
 SOURCESLIDES ?= $(SOURCE)/slideshows
