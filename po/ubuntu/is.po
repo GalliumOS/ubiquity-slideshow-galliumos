@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-03-12 03:53+0200\n"
-"PO-Revision-Date: 2014-04-30 12:12+0000\n"
-"Last-Translator: Baldur Þór Sveinsson <baldur@oreind.is>\n"
+"POT-Creation-Date: 2018-04-26 12:04+0100\n"
+"PO-Revision-Date: 2017-09-24 11:34+0000\n"
+"Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
 "Language-Team: Icelandic <is@li.org>\n"
 "Language: is\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-04-05 17:28+0000\n"
-"X-Generator: Launchpad (build 17413)\n"
+"X-Launchpad-Export-Date: 2018-04-26 10:41+0000\n"
+"X-Generator: Launchpad (build 18623)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/accessibility.html:1
@@ -105,33 +105,34 @@ msgstr "Chromium"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/gethelp.html:1
-msgid "Any questions?"
-msgstr "Einhverjar spurningar?"
+msgid "Help and support"
+msgstr "Hjálp og aðstoð"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/gethelp.html:8
 msgid ""
-"Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers to "
-"all your Ubuntu questions. There’s a good chance your question will have "
-"been answered already and, if not, you’ll find thousands of volunteers eager "
-"to help. For more support options, go to <a href=\"http://www.ubuntu.com/"
-"support\">ubuntu.com/support</a>."
+"The <span class=\"app\" data-app=\"docs\">Official documentation</span> "
+"covers many of the most common areas about Ubuntu. It's available both <a "
+"href=\"https://help.ubuntu.com\">online</a> and via the Help icon in the "
+"Dock."
 msgstr ""
-"Skoðaðu <a href=\"http://askubuntu.com/\">askubuntu.com</a>til að fá svör "
-"við öllum spurningunum þínum varðandi Ubuntu. Það eru góðar líkur á að "
-"spurningunni þinni hafi þegar verið svarað og, ef ekki, þá munt þú finna "
-"þarna fjölda sjálfboðaliða sem eru æstir í að hjálpa. Fyrir fleiri valkosti, "
-"farðu á <a href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
 
-#. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu/slides/gethelp.html:17
-msgid "Let’s talk Ubuntu"
-msgstr "Tölum um Ubuntu"
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu/slides/gethelp.html:12
+msgid ""
+"At <a href=\"http://askubuntu.com\">Ask Ubuntu</a> you can ask questions and "
+"search an impressive collection of already answered questions. Support in "
+"your own language may be provided by your <a href=\"http://loco.ubuntu.com/"
+"teams/\">Local Community Team</a>."
+msgstr ""
 
-#. type: Content of: <div><div><div><div>
-#: slideshows/ubuntu/slides/gethelp.html:18
-msgid "I'm installing #Ubuntu!"
-msgstr "Ég er að setja upp #Ubuntu"
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu/slides/gethelp.html:16
+msgid ""
+"For pointers to other useful resources, please visit <a href=\"https://www."
+"ubuntu.com/support/community-support\">Community support</a> or <a href="
+"\"http://www.ubuntu.com/support\">Commercial support</a>."
+msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/music.html:2
@@ -229,20 +230,17 @@ msgstr "Finndu enn meiri hugbúnað"
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/usc.html:8
 msgid ""
-"Say goodbye to searching the web for new software. With Ubuntu Software "
-"Center, you can find and install new apps with ease. Just type in what "
-"you’re looking for, or explore categories such as Science, Education and "
-"Games, alongside helpful reviews from other users."
+"Say goodbye to searching the web for new software. With access to the Snap "
+"Store and the Ubuntu software archive, you can find and install new apps "
+"with ease. Just type in what you’re looking for, or explore categories such "
+"as Graphics & Photography, Games and Productivity, alongside helpful reviews "
+"from other users."
 msgstr ""
-"Kveddu þá hugsun að leita á netinu eftir hugbúnaði. Með Ubuntu Software "
-"Center, getur þú fundið og sett upp ný forrit auðveldlega. Skrifaðu bara það "
-"sem þú leitar að, eða kannaðu flokka svo sem Vísindi, Kennsla og Leikir, "
-"ásamt hjálplegum ummælum frá öðrum notendum."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/welcome.html:1
 msgid "Welcome to Ubuntu"
-msgstr ""
+msgstr "Velkomin í Ubuntu"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/welcome.html:8
@@ -253,6 +251,3 @@ msgstr ""
 "Hraðvirkt og fullt af nýjum eiginleikum, nýjasta útgáfan af Ubuntu gerir "
 "tölvuvinnu auðveldari en nokkru sinni. Hér eru bara nokkrir flottir nýjir "
 "eiginleikar til að skoða..."
-
-#~ msgid "Welcome to Ubuntu 14.04"
-#~ msgstr "Velkomin í Ubuntu 14.04"

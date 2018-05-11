@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-03-12 03:54+0200\n"
-"PO-Revision-Date: 2015-02-18 15:06+0000\n"
-"Last-Translator: Phillip Sz <Unknown>\n"
+"POT-Creation-Date: 2018-04-26 12:04+0100\n"
+"PO-Revision-Date: 2016-09-16 12:03+0000\n"
+"Last-Translator: Tobias Bannert <tobannert@gmail.com>\n"
 "Language-Team: German <de@li.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-04-05 17:28+0000\n"
-"X-Generator: Launchpad (build 17413)\n"
+"X-Launchpad-Export-Date: 2018-04-26 10:41+0000\n"
+"X-Generator: Launchpad (build 18623)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:1
@@ -106,33 +106,38 @@ msgstr "Chromium"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:1
-msgid "Any questions?"
-msgstr "Noch Fragen?"
+msgid "Help and support"
+msgstr "Hilfe und Unterstützung"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:8
 msgid ""
-"Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers to "
-"all your Ubuntu questions. There’s a good chance your question will have "
-"been answered already and, if not, you’ll find thousands of volunteers eager "
-"to help. For more support options, go to <a href=\"http://www.ubuntu.com/"
-"support\">ubuntu.com/support</a>."
+"The <span class=\"app\" data-app=\"docs\">Official documentation</span> "
+"covers many of the most common areas about Ubuntu. It's available both <a "
+"href=\"https://help.ubuntu.com\">online</a> and via the Help icon in the "
+"Dock."
 msgstr ""
-"Besuchen Sie <a href=\"http://askubuntu.com/\">askubuntu.com</a>, um "
-"Antworten auf all Ihre Ubuntu-Fragen zu erhalten. Wahrscheinlich wurde Ihre "
-"Frage schon einmal gestellt und beantwortet, doch falls nicht erhalten Sie "
-"schnelle Hilfe von tausenden Freiwilligen. Weitere Unterstützung finden Sie "
-"unter <a href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
 
-#. type: Content of: <div><div><div><h2>
-#: slideshows/oem-config-ubuntu/slides/gethelp.html:17
-msgid "Let’s talk Ubuntu"
-msgstr "Lassen Sie uns Ubuntu sprechen"
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu/slides/gethelp.html:12
+msgid ""
+"At <a href=\"http://askubuntu.com\">Ask Ubuntu</a> you can ask questions and "
+"search an impressive collection of already answered questions. Support in "
+"your own language may be provided by your <a href=\"http://loco.ubuntu.com/"
+"teams/\">Local Community Team</a>."
+msgstr ""
+"Auf <a href=\"http://askubuntu.com\">Ask Ubuntu</a> können Sie Fragen "
+"stellen und eine beeindruckende Sammlung bereits beantworteter Fragen "
+"durchsuchen. Unterstützung in Ihrer eigenen Sprache bietet zumeist  Ihr <a "
+"href=\"http://loco.ubuntu.com/teams/\">Local Community Team</a>."
 
-#. type: Content of: <div><div><div><div>
-#: slideshows/oem-config-ubuntu/slides/gethelp.html:18
-msgid "I'm installing #Ubuntu!"
-msgstr "Ich installiere #Ubuntu!"
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu/slides/gethelp.html:16
+msgid ""
+"For pointers to other useful resources, please visit <a href=\"https://www."
+"ubuntu.com/support/community-support\">Community support</a> or <a href="
+"\"http://www.ubuntu.com/support\">Commercial support</a>."
+msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/music.html:2
@@ -232,16 +237,12 @@ msgstr "Finden Sie noch mehr Anwendungen"
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/usc.html:8
 msgid ""
-"Say goodbye to searching the web for new software. With Ubuntu Software "
-"Center, you can find and install new apps with ease. Just type in what "
-"you’re looking for, or explore categories such as Science, Education and "
-"Games, alongside helpful reviews from other users."
+"Say goodbye to searching the web for new software. With access to the Snap "
+"Store and the Ubuntu software archive, you can find and install new apps "
+"with ease. Just type in what you’re looking for, or explore categories such "
+"as Graphics & Photography, Games and Productivity, alongside helpful reviews "
+"from other users."
 msgstr ""
-"Sagen Sie Tschüs zur Suche nach Anwendungen im Internet. Mit dem Ubuntu "
-"Software-Center finden und installieren Sie kinderleicht neue Anwendungen. "
-"Geben Sie einfach ein, wonach Sie suchen, oder erkunden Sie die Kategorien, "
-"wie Wissenschaft, Bildung und Spiele, zusammen mit hilfreichen Bewertungen "
-"anderer Nutzer."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/welcome.html:1
@@ -258,15 +259,36 @@ msgstr ""
 "Nutzung Ihres Rechners einfacher als je zuvor. Hier sind nur einige der "
 "coolen Neuerungen, nach denen Sie Ausschau halten sollten …"
 
-#~ msgid "Welcome"
-#~ msgstr "Herzlich Willkommen"
+#~ msgid ""
+#~ "For pointers to other useful resources, please visit <a href=\"http://"
+#~ "community.ubuntu.com/help-information/\">community.ubuntu.com/help-"
+#~ "information</a> or <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
+#~ "support</a>."
+#~ msgstr ""
+#~ "Weitere Verweise auf nützliche Hilfsquellen finden Sie hier <a href="
+#~ "\"http://community.ubuntu.com/help-information/\">community.ubuntu.com/"
+#~ "help-information</a> oder auch hier  <a href=\"http://www.ubuntu.com/"
+#~ "support\">ubuntu.com/support</a>."
 
 #~ msgid ""
-#~ "Thank you for choosing Ubuntu 14.04. This version brings some exciting "
-#~ "changes including a totally redesigned desktop interface, Unity. While "
-#~ "Ubuntu is configured, this slideshow will show you around."
+#~ "Say goodbye to searching the web for new software. With access to the "
+#~ "Ubuntu Software Store, you can find and install new apps with ease. Just "
+#~ "type in what you’re looking for, or explore categories such as Science, "
+#~ "Education and Games, alongside helpful reviews from other users."
 #~ msgstr ""
-#~ "Vielen Dank, dass Sie sich für Ubuntu 14.04 entschieden haben. Diese "
-#~ "Version bringt einige spannende Veränderungen mit sich, unter anderem "
-#~ "eine komplett überarbeitete Arbeitsumgebung, Unity. Während Ubuntu "
-#~ "konfiguriert wird, gibt Ihnen diese Slideshow eine kleine Rundführung."
+#~ "Suchen Sie nicht mehr im Netz nach neuer Software. Mit dem Zugriff auf "
+#~ "den Ubuntu Software Store können Sie ganz leicht neue Anwendungen finden "
+#~ "und installieren. Tippen Sie einfach ein, was Sie suchen oder erkunden "
+#~ "Sie Kategorien wie Wissenschaft, Bildung und Spiele. Zusätzlich finden "
+#~ "Sie dort auch hilfreiche Bewertungen von anderen Nutzern."
+
+#~ msgid ""
+#~ "The <span class=\"app\" data-app=\"docs\">Official documentation</span> "
+#~ "covers many of the most common areas about Ubuntu. It's available both <a "
+#~ "href=\"https://help.ubuntu.com\">online</a> and via the Ubuntu Help item "
+#~ "in the System menu."
+#~ msgstr ""
+#~ "Die <span class=\"app\" data-app=\"docs\">offizielle Dokumentation</span> "
+#~ "deckt die wichtigsten Bereiche von Ubuntu ab. Sie ist sowohl im <a href="
+#~ "\"https://help.ubuntu.com\">Netz</a> als auch über die Ubuntu-Hilfe im "
+#~ "Systemmenü verfügbar."

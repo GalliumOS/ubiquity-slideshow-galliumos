@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-03-12 03:53+0200\n"
-"PO-Revision-Date: 2015-02-18 15:06+0000\n"
-"Last-Translator: Phillip Sz <Unknown>\n"
+"POT-Creation-Date: 2018-04-26 12:04+0100\n"
+"PO-Revision-Date: 2018-04-22 18:09+0000\n"
+"Last-Translator: Torsten Franz <Unknown>\n"
 "Language-Team: German <de@li.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-04-05 17:28+0000\n"
-"X-Generator: Launchpad (build 17413)\n"
+"X-Launchpad-Export-Date: 2018-04-26 10:41+0000\n"
+"X-Generator: Launchpad (build 18623)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/accessibility.html:1
@@ -45,7 +45,7 @@ msgstr "Anpassungsmöglichkeiten"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/accessibility.html:16
 msgid "Appearance"
-msgstr "Darstellung"
+msgstr "Erscheinungsbild"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/accessibility.html:20
@@ -60,7 +60,7 @@ msgstr "Sprachunterstützung"
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/browse.html:1
 msgid "Make the most of the web"
-msgstr "Holen Sie das Beste aus dem Internet"
+msgstr "Das Beste aus dem Internet machen"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/browse.html:8
@@ -70,10 +70,10 @@ msgid ""
 "for example) can be pinned to your desktop for faster access, just like apps "
 "on your computer."
 msgstr ""
-"Ubuntu enthält Firefox, den Webbrowser, den Millionen von Leuten auf der "
-"ganzen Welt nutzen. Und Web-Anwendungen, die Sie häufig aufrufen (z.B. "
-"Facebook oder Gmail), können Sie an Ihre Arbeitsfläche heften, damit Sie "
-"schneller darauf zugreifen können, wie bei Anwendungen auf Ihrem Rechner."
+"Ubuntu enthält Firefox, den Webbrowser, den Millionen von Menschen auf der "
+"ganzen Welt nutzen. Web-Anwendungen, die Sie häufig aufrufen (z.B. Facebook "
+"oder Gmail), können Sie an Ihre Arbeitsfläche heften, damit Sie schneller "
+"darauf zugreifen können, genau wie bei Anwendungen auf Ihrem Rechner."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/browse.html:12
@@ -81,12 +81,12 @@ msgstr ""
 #: slideshows/ubuntu/slides/office.html:12
 #: slideshows/ubuntu/slides/photos.html:12
 msgid "Included software"
-msgstr "Enthaltene Anwendungen"
+msgstr "Vorinstallierte Anwendungen"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/browse.html:16
 msgid "Firefox web browser"
-msgstr "Firefox – Webbrowser"
+msgstr "Firefox-Internetbrowser"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/browse.html:19
@@ -102,42 +102,53 @@ msgstr "Flash"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/browse.html:27
 msgid "Chromium"
-msgstr "Chromium"
+msgstr "Chromium-Internetbrowser"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/gethelp.html:1
-msgid "Any questions?"
-msgstr "Noch Fragen?"
+msgid "Help and support"
+msgstr "Hilfe und Unterstützung"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/gethelp.html:8
 msgid ""
-"Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers to "
-"all your Ubuntu questions. There’s a good chance your question will have "
-"been answered already and, if not, you’ll find thousands of volunteers eager "
-"to help. For more support options, go to <a href=\"http://www.ubuntu.com/"
-"support\">ubuntu.com/support</a>."
+"The <span class=\"app\" data-app=\"docs\">Official documentation</span> "
+"covers many of the most common areas about Ubuntu. It's available both <a "
+"href=\"https://help.ubuntu.com\">online</a> and via the Help icon in the "
+"Dock."
 msgstr ""
-"Besuchen Sie <a href=\"http://askubuntu.com/\">askubuntu.com</a>, um "
-"Antworten auf all Ihre Ubuntu-Fragen zu erhalten. Wahrscheinlich wurde Ihre "
-"Frage schon einmal gestellt und beantwortet, doch falls nicht erhalten Sie "
-"schnelle Hilfe von tausenden Freiwilligen. Weitere Unterstützung finden Sie "
-"unter <a href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
+"Die <span class=\"app\" data-app=\"docs\">offizielle Dokumentation</"
+"span>deckt die meisten Fragen zu Ubuntu ab. Sie ist <a href=\"https://help."
+"ubuntu.com\">Online</a> und über das Hilfe-Symbol im Dock erreichbar."
 
-#. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu/slides/gethelp.html:17
-msgid "Let’s talk Ubuntu"
-msgstr "Lassen Sie uns Ubuntu sprechen"
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu/slides/gethelp.html:12
+msgid ""
+"At <a href=\"http://askubuntu.com\">Ask Ubuntu</a> you can ask questions and "
+"search an impressive collection of already answered questions. Support in "
+"your own language may be provided by your <a href=\"http://loco.ubuntu.com/"
+"teams/\">Local Community Team</a>."
+msgstr ""
+"Auf <a href=\"http://askubuntu.com\">Ask Ubuntu</a> können Sie Fragen "
+"stellen und eine beeindruckende Sammlung bereits beantworteter Fragen "
+"durchsuchen. Unterstützung in Ihrer eigenen Sprache bietet zumeist Ihre <a "
+"href=\"http://loco.ubuntu.com/teams/\">lokale Gemeinschaft</a>."
 
-#. type: Content of: <div><div><div><div>
-#: slideshows/ubuntu/slides/gethelp.html:18
-msgid "I'm installing #Ubuntu!"
-msgstr "Ich installiere #Ubuntu!"
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu/slides/gethelp.html:16
+msgid ""
+"For pointers to other useful resources, please visit <a href=\"https://www."
+"ubuntu.com/support/community-support\">Community support</a> or <a href="
+"\"http://www.ubuntu.com/support\">Commercial support</a>."
+msgstr ""
+"Weitere nützliche Informationen und Hilfe finden Sie beim <a href=\"https://"
+"www.ubuntu.com/support/community-support\"> Community Support</a> oder <a "
+"href=\"http://www.ubuntu.com/support\">dem kommerziellen Support</a>."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/music.html:2
 msgid "Take your music with you"
-msgstr "Nehmen Sie Ihre Musik mit"
+msgstr "Ihre Musik mitnehmen"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/music.html:7
@@ -156,12 +167,12 @@ msgstr ""
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/music.html:15
 msgid "Rhythmbox Music Player"
-msgstr "Rhythmbox – Musikwiedergabe"
+msgstr "Rhythmbox-Musikwiedergabe"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/office.html:1
 msgid "Everything you need for the office"
-msgstr "Alles, was Sie für das Büro brauchen"
+msgstr "Alles was sie für das Büro benötigen"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/office.html:8
@@ -170,30 +181,30 @@ msgid ""
 "documents, spreadsheets and presentations. Compatible with Microsoft Office "
 "file formats, it gives you all the features you need, without the price tag."
 msgstr ""
-"LibreOffice ist eine freie Sammlung von Büroprogrammen, die alles enthält, "
-"was Sie benötigen, um Dokumente, Tabellen und Präsentationen zu erstellen. "
-"Sie unterstützt das Dateiformat von Microsoft Office und bietet Ihnen alle "
-"Funktionen, die Sie brauchen – kostenlos."
+"LibreOffice ist eine freie Zusammenstellung von Büroprogrammen, die alles "
+"enthält, was Sie benötigen, um Dokumente, Tabellen und Präsentationen zu "
+"erstellen. Sie unterstützt das Dateiformat von Microsoft Office und bietet "
+"Ihnen alle Funktionen, die Sie brauchen – kostenlos."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/office.html:16
 msgid "LibreOffice Writer"
-msgstr "LibreOffice Writer – Textverarbeitung"
+msgstr "LibreOffice-Textverarbeitung"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/office.html:20
 msgid "LibreOffice Calc"
-msgstr "LibreOffice Calc – Tabellenkalkulation"
+msgstr "LibreOffice-Tabellenkalkulation"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/office.html:24
 msgid "LibreOffice Impress"
-msgstr "LibreOffice Impress – Präsentation"
+msgstr "LibreOffice-Präsentation"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/photos.html:1
 msgid "Have fun with your photos"
-msgstr "Erfreuen Sie sich an Ihren Fotos"
+msgstr "Erfreuen Sie sich an Ihren Bildern"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/photos.html:8
@@ -212,12 +223,12 @@ msgstr ""
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/photos.html:16
 msgid "Shotwell Photo Manager"
-msgstr "Shotwell – Fotoverwaltung"
+msgstr "Shotwell-Fotoverwaltung"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/photos.html:23
 msgid "GIMP Image Editor"
-msgstr "GIMP – Bildbearbeitung"
+msgstr "GIMP-Bildbearbeitung"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/photos.html:27
@@ -227,20 +238,22 @@ msgstr "PiTiVi – Videobearbeitung"
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/usc.html:1
 msgid "Find even more software"
-msgstr "Finden Sie noch mehr Anwendungen"
+msgstr "Noch mehr Anwendungen finden"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/usc.html:8
 msgid ""
-"Say goodbye to searching the web for new software. With Ubuntu Software "
-"Center, you can find and install new apps with ease. Just type in what "
-"you’re looking for, or explore categories such as Science, Education and "
-"Games, alongside helpful reviews from other users."
+"Say goodbye to searching the web for new software. With access to the Snap "
+"Store and the Ubuntu software archive, you can find and install new apps "
+"with ease. Just type in what you’re looking for, or explore categories such "
+"as Graphics & Photography, Games and Productivity, alongside helpful reviews "
+"from other users."
 msgstr ""
-"Nie wieder im Internet nach Anwendungen suchen: Mit dem Software-Center "
-"finden und installieren Sie kinderleicht neue Anwendungen. Geben Sie einfach "
-"einen Suchbegriff ein oder erkunden Sie die Kategorien, wie Wissenschaft, "
-"Bildung und Spiele, zusammen mit hilfreichen Bewertungen anderer Nutzer."
+"Nie mehr das Internet nach neuer Software durchsuchen. Mit Zugang zum "
+"SnapStore und dem Ubuntu Software Archiv können Sie leicht Programme finden "
+"und installieren. Sie müssen in die Suchmaske nur das eintippen, was Sie "
+"suchen oder in Kategorien wie Grafik und Fotografie, Spiele und "
+"Produktivität mit helfenden Bewertungen anderer Benutzer suchen."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/welcome.html:1
@@ -253,9 +266,41 @@ msgid ""
 "Fast and full of new features, the latest version of Ubuntu makes computing "
 "easier than ever. Here are just a few cool new things to look out for…"
 msgstr ""
-"Schnell und voller neuer Funktionen, die aktuelle Ubuntu-Version macht die "
+"Schnell und voller neuer Funktionen! Die aktuelle Ubuntu-Version macht die "
 "Nutzung Ihres Rechners einfacher als je zuvor. Hier sind nur einige der "
 "coolen Neuerungen, nach denen Sie Ausschau halten sollten …"
 
-#~ msgid "Welcome to Ubuntu 14.04"
-#~ msgstr "Willkommen zu Ubuntu 14.04"
+#~ msgid ""
+#~ "For pointers to other useful resources, please visit <a href=\"http://"
+#~ "community.ubuntu.com/help-information/\">community.ubuntu.com/help-"
+#~ "information</a> or <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
+#~ "support</a>."
+#~ msgstr ""
+#~ "Weitere Verweise auf nützliche Hilfsquellen finden Sie unter <a href="
+#~ "\"http://community.ubuntu.com/help-information/\">community.ubuntu.com/"
+#~ "help-information</a> oder auch unter  <a href=\"http://www.ubuntu.com/"
+#~ "support\">ubuntu.com/support</a> und unter <a href=\"http://ubuntuusers.de"
+#~ "\">ubuntuusers</a>."
+
+#~ msgid ""
+#~ "Say goodbye to searching the web for new software. With access to the "
+#~ "Ubuntu Software Store, you can find and install new apps with ease. Just "
+#~ "type in what you’re looking for, or explore categories such as Science, "
+#~ "Education and Games, alongside helpful reviews from other users."
+#~ msgstr ""
+#~ "Suchen Sie nicht mehr im Netz nach neuer Software. Mit dem Zugriff auf "
+#~ "den Ubuntu Software Store können Sie ganz leicht neue Anwendungen finden "
+#~ "und installieren. Tippen Sie einfach ein, was Sie suchen oder erkunden "
+#~ "Sie Kategorien wie Wissenschaft, Bildung und Spiele. Zusätzlich finden "
+#~ "Sie dort auch hilfreiche Bewertungen von anderen Nutzern."
+
+#~ msgid ""
+#~ "The <span class=\"app\" data-app=\"docs\">Official documentation</span> "
+#~ "covers many of the most common areas about Ubuntu. It's available both <a "
+#~ "href=\"https://help.ubuntu.com\">online</a> and via the Ubuntu Help item "
+#~ "in the System menu."
+#~ msgstr ""
+#~ "Die <span class=\"app\" data-app=\"docs\">offizielle Dokumentation</span> "
+#~ "deckt die wichtigsten Bereiche von Ubuntu ab. Sie ist sowohl im <a href="
+#~ "\"https://help.ubuntu.com\">Netz</a> als auch über die Ubuntu-Hilfe im "
+#~ "Systemmenü verfügbar."

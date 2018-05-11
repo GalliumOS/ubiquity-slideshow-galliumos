@@ -7,20 +7,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-03-12 03:54+0200\n"
-"PO-Revision-Date: 2013-10-26 19:14+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2018-04-26 12:04+0100\n"
+"PO-Revision-Date: 2015-06-11 23:22+0000\n"
+"Last-Translator: samson <Unknown>\n"
 "Language-Team: Amharic <am@li.org>\n"
 "Language: am\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-04-05 17:29+0000\n"
-"X-Generator: Launchpad (build 17413)\n"
+"X-Launchpad-Export-Date: 2018-04-26 10:41+0000\n"
+"X-Generator: Launchpad (build 18623)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/00_welcome.html:1
-msgid "Welcome to Lubuntu 15.04"
+msgid "Welcome to Lubuntu"
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
@@ -33,7 +33,7 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/01_lxde.html:1
 msgid "Built on a solid foundation"
-msgstr ""
+msgstr "በጠንካራ መሰረት ላይ የተገነባ"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/01_lxde.html:8
@@ -46,7 +46,7 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/02_browser.html:1
 msgid "Browse the web"
-msgstr ""
+msgstr "ድርን መቃኛ"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/02_browser.html:8
@@ -67,7 +67,7 @@ msgstr "የተካተቱ ሶፍትዌሮች"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/02_browser.html:16
 msgid "Firefox"
-msgstr ""
+msgstr "ፋየርፎክስ"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/lubuntu/slides/02_browser.html:19
@@ -79,18 +79,18 @@ msgstr "የተደገፉ ሶፍትዌሮች"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/02_browser.html:23
-msgid "Flash"
+msgid "Qupzilla"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/02_browser.html:28
 msgid "Chromium"
-msgstr ""
+msgstr "ክሮሚየም"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/03_office.html:1
 msgid "Create and edit documents"
-msgstr ""
+msgstr "ሰነዶች መፍጠሪያ እና ማረሚያ"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/03_office.html:8
@@ -119,14 +119,14 @@ msgstr "ሊብሬ ቢሮ"
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/04_media.html:1
 msgid "Enjoy your music and videos"
-msgstr ""
+msgstr "በ እርስዎ ሙዚቃ እና ቪዲዮዎች ይደሰቱ"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/04_media.html:10
 msgid ""
 "Listen to your favorite music with <em>Audacious</em>, a simple but powerful "
-"audio player. And enjoy all your videos with <em>Gnome-Mplayer</em>, a fast "
-"video player powered by mplayer with support for many formats."
+"audio player. And enjoy all your videos with <em>Gnome MPV</em>, the next "
+"generation video player, with support for many formats."
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
@@ -143,7 +143,7 @@ msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/04_media.html:28
-msgid "Gnome-Mplayer"
+msgid "Gnome MPV"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
@@ -159,7 +159,7 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/05_social.html:1
 msgid "Chat with your friends"
-msgstr ""
+msgstr "ከ ጓደኞችዎ ጋር ይወያዩ"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/05_social.html:8
@@ -180,16 +180,16 @@ msgid "Empathy"
 msgstr ""
 
 #. type: Content of: <div><h1>
-#: slideshows/lubuntu/slides/06_lsc.html:1
+#: slideshows/lubuntu/slides/06_software.html:1
 msgid "Download software with ease"
-msgstr ""
+msgstr "ሶፍትዌር በቀላሉ ያውርዱ"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/06_lsc.html:8
+#: slideshows/lubuntu/slides/06_software.html:8
 msgid ""
 "With Lubuntu, you have access to the whole Ubuntu repository and all the "
 "software included. This means that thousands of new applications are ready "
-"for your computer, free of charge. Use the <em>Lubuntu Software Center</em> "
+"for your computer, free of charge. Use the revamped <em>Software</em> app "
 "and explore categories such as games, science and education, or search for "
 "your favorite software."
 msgstr ""
@@ -197,7 +197,7 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/07_help.html:1
 msgid "Need help?"
-msgstr ""
+msgstr "እርዳታ ይፈልጋሉ?"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/07_help.html:8
@@ -205,14 +205,14 @@ msgid ""
 "One of the biggest advantages with Lubuntu is the wonderful community that "
 "comes with it. Other users will gladly help you out if you encounter "
 "problems. There are many different ways to get help, the easiest way is to "
-"visit our <a href=\"http://lubuntu.net/\">website</a>, as we've gathered all "
+"visit our <a href=\"http://lubuntu.me/\">website</a>, as we've gathered all "
 "the information you need."
 msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/08_thanks.html:1
 msgid "Thank you for choosing Lubuntu"
-msgstr ""
+msgstr "ሉብንቱን ስለመረጡ እናመሰግናለን"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/08_thanks.html:8
@@ -220,5 +220,8 @@ msgid ""
 "The installation will finish soon. We hope you will enjoy Lubuntu and all "
 "the freedom that comes with it.  If you wish to help us improve Lubuntu, "
 "either by giving us feedback or by getting involved in the project, please "
-"visit our <a href=\"http://lubuntu.net/\">website</a>."
+"visit our <a href=\"http://lubuntu.me/\">website</a>."
 msgstr ""
+
+#~ msgid "Flash"
+#~ msgstr "ፍላሽ"

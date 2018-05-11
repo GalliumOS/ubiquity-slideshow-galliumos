@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-03-12 03:53+0200\n"
+"POT-Creation-Date: 2018-04-26 12:04+0100\n"
 "PO-Revision-Date: 2014-03-22 16:25+0000\n"
 "Last-Translator: Shubham Rao <cshubhamrao@gmail.com>\n"
 "Language-Team: Hindi <hi@li.org>\n"
@@ -15,8 +15,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-04-05 17:28+0000\n"
-"X-Generator: Launchpad (build 17413)\n"
+"X-Launchpad-Export-Date: 2018-04-26 10:41+0000\n"
+"X-Generator: Launchpad (build 18623)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/accessibility.html:1
@@ -104,33 +104,34 @@ msgstr "क्रोमियम"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/gethelp.html:1
-msgid "Any questions?"
-msgstr "क्या आपका कोई प्रश्न है ?"
+msgid "Help and support"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/gethelp.html:8
 msgid ""
-"Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers to "
-"all your Ubuntu questions. There’s a good chance your question will have "
-"been answered already and, if not, you’ll find thousands of volunteers eager "
-"to help. For more support options, go to <a href=\"http://www.ubuntu.com/"
-"support\">ubuntu.com/support</a>."
+"The <span class=\"app\" data-app=\"docs\">Official documentation</span> "
+"covers many of the most common areas about Ubuntu. It's available both <a "
+"href=\"https://help.ubuntu.com\">online</a> and via the Help icon in the "
+"Dock."
 msgstr ""
-"अपने किसी भी उबुन्टु से सम्बन्धित प्रश्न के लिए आप <a href=\"http://askubuntu.com/"
-"\">askubuntu.com</a> पर जा सकते हैं ।इसकी बहुत सम्भावना है कि आपके प्रश्नों के उत्तर पेहले "
-"से ही दिये जा चुके हों, अगर नहीं ,  तो आप हजारों स्वंयंसेवको को मदद करने के लिये उत्सुक  "
-"पायेंगे । मदद के अधिक विकल्पों के लियै इस वेब साइट पर जायें <a href=\"http://www.ubuntu."
-"com/support\">ubuntu.com/support</a>."
 
-#. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu/slides/gethelp.html:17
-msgid "Let’s talk Ubuntu"
-msgstr "चलो उबुन्टू के बात करते हैं"
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu/slides/gethelp.html:12
+msgid ""
+"At <a href=\"http://askubuntu.com\">Ask Ubuntu</a> you can ask questions and "
+"search an impressive collection of already answered questions. Support in "
+"your own language may be provided by your <a href=\"http://loco.ubuntu.com/"
+"teams/\">Local Community Team</a>."
+msgstr ""
 
-#. type: Content of: <div><div><div><div>
-#: slideshows/ubuntu/slides/gethelp.html:18
-msgid "I'm installing #Ubuntu!"
-msgstr "मैं #उबुन्टू को स्थापित कर रहा हूँ!"
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu/slides/gethelp.html:16
+msgid ""
+"For pointers to other useful resources, please visit <a href=\"https://www."
+"ubuntu.com/support/community-support\">Community support</a> or <a href="
+"\"http://www.ubuntu.com/support\">Commercial support</a>."
+msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/music.html:2
@@ -226,15 +227,12 @@ msgstr "और भी अधिक सॉफ्टवेयर प्राप�
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/usc.html:8
 msgid ""
-"Say goodbye to searching the web for new software. With Ubuntu Software "
-"Center, you can find and install new apps with ease. Just type in what "
-"you’re looking for, or explore categories such as Science, Education and "
-"Games, alongside helpful reviews from other users."
+"Say goodbye to searching the web for new software. With access to the Snap "
+"Store and the Ubuntu software archive, you can find and install new apps "
+"with ease. Just type in what you’re looking for, or explore categories such "
+"as Graphics & Photography, Games and Productivity, alongside helpful reviews "
+"from other users."
 msgstr ""
-"नये सोफटवैर ढूंडने के लिय वेब को अलविदा कहें । उबुन्टु सौफटवेर केंद्र से आप आसानी से कोई भी "
-"एपलीकेशन ढूंड कर स्थपित कर सकते हें. अपनी इचछित एपलीकेशन को  केवल टाईप करें, अथवा "
-"विभिन्न विभागों, जैसे कि विज्ञान, शिक्षा और खेल,  में अन्य उपयोगर्कताओं की मददगार "
-"समीक्षाओं के साथ ढूंडें ।"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/welcome.html:1
@@ -249,6 +247,3 @@ msgid ""
 msgstr ""
 "तेज़ और नई सुविधाओं का भरपूर, उबुन्तु का नवीनतम संस्करण कंप्यूटिंग पहले से कहीं ज्यादा आसान  "
 "बनाता है| इसमें देखने को कुछ नये रोमांचक चीजें हैं..."
-
-#~ msgid "Welcome to Ubuntu 14.04"
-#~ msgstr "उबुन्टु 14.04 में आपका स्वागत है"

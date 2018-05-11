@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-03-12 03:54+0200\n"
-"PO-Revision-Date: 2012-09-30 16:55+0000\n"
-"Last-Translator: Shuhrat Dehkanov <k@efir.uz>\n"
+"POT-Creation-Date: 2018-04-26 12:04+0100\n"
+"PO-Revision-Date: 2016-03-26 23:01+0000\n"
+"Last-Translator: Learner <muzaffar.habibullayev@yandex.ru>\n"
 "Language-Team: Uzbek <uz@li.org>\n"
 "Language: uz\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-04-05 17:28+0000\n"
-"X-Generator: Launchpad (build 17413)\n"
+"X-Launchpad-Export-Date: 2018-04-26 10:41+0000\n"
+"X-Generator: Launchpad (build 18623)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:1
@@ -105,33 +105,38 @@ msgstr "Chromium"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:1
-msgid "Any questions?"
-msgstr "Саволларингиз борми?"
+msgid "Help and support"
+msgstr "Yordam va qo'llash"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:8
 msgid ""
-"Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers to "
-"all your Ubuntu questions. There’s a good chance your question will have "
-"been answered already and, if not, you’ll find thousands of volunteers eager "
-"to help. For more support options, go to <a href=\"http://www.ubuntu.com/"
-"support\">ubuntu.com/support</a>."
+"The <span class=\"app\" data-app=\"docs\">Official documentation</span> "
+"covers many of the most common areas about Ubuntu. It's available both <a "
+"href=\"https://help.ubuntu.com\">online</a> and via the Help icon in the "
+"Dock."
 msgstr ""
-"Барча Ubuntu саволларингизга  <a href=\"http://askubuntu.com/\">askubuntu."
-"com</a> да жавоб қидиринг. Аллақачон саволингизга жавоб берилганик эҳтимоли "
-"катта. Агар бундай бўлмаса, миллионлаб кўнгиллилар ёрдамга мунтазир. Кўпроқ "
-"қўллаб-қувватлаш хоссалари учун  <a href=\"http://www.ubuntu.com/support"
-"\">ubuntu.com/support</a> га киринг."
 
-#. type: Content of: <div><div><div><h2>
-#: slideshows/oem-config-ubuntu/slides/gethelp.html:17
-msgid "Let’s talk Ubuntu"
-msgstr "Келинг, Ubuntu ҳақида гаплашамиз"
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu/slides/gethelp.html:12
+msgid ""
+"At <a href=\"http://askubuntu.com\">Ask Ubuntu</a> you can ask questions and "
+"search an impressive collection of already answered questions. Support in "
+"your own language may be provided by your <a href=\"http://loco.ubuntu.com/"
+"teams/\">Local Community Team</a>."
+msgstr ""
+"<a href=\"http://askubuntu.com\">Ask Ubuntu</a> da siz savollar berishingiz "
+"hamda allaqachon javob berilgan savollarning ajoyib jamlanmasidan "
+"qidirishingiz mumkin. O'z tilingiz <a href=\"http://loco.ubuntu.com/teams/"
+"\">Mahalliy Hamjamiyat Jamoasi</a>da mavjud bo'lishi mumkin."
 
-#. type: Content of: <div><div><div><div>
-#: slideshows/oem-config-ubuntu/slides/gethelp.html:18
-msgid "I'm installing #Ubuntu!"
-msgstr "Мен #Ubuntu'ни ўрнатаяпман!"
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu/slides/gethelp.html:16
+msgid ""
+"For pointers to other useful resources, please visit <a href=\"https://www."
+"ubuntu.com/support/community-support\">Community support</a> or <a href="
+"\"http://www.ubuntu.com/support\">Commercial support</a>."
+msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/music.html:2
@@ -230,20 +235,17 @@ msgstr "Кўпроқ дастурларни топиш"
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/usc.html:8
 msgid ""
-"Say goodbye to searching the web for new software. With Ubuntu Software "
-"Center, you can find and install new apps with ease. Just type in what "
-"you’re looking for, or explore categories such as Science, Education and "
-"Games, alongside helpful reviews from other users."
+"Say goodbye to searching the web for new software. With access to the Snap "
+"Store and the Ubuntu software archive, you can find and install new apps "
+"with ease. Just type in what you’re looking for, or explore categories such "
+"as Graphics & Photography, Games and Productivity, alongside helpful reviews "
+"from other users."
 msgstr ""
-"Янги дастурларни Интернетдан қидириш билан хайрлашинг. Ubuntu Дастурлар "
-"Маркази ёрдамида янги дастурларни осонлик билан топиб ўрнатишингиз мумкин. "
-"Фақат излаётганингизни ёзинг ёки Фан, Таълим ва Ўйинлар каби бўлимлардан "
-"фойдаланувчилар хулосалари билан қидиринг."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/welcome.html:1
 msgid "Welcome to Ubuntu"
-msgstr ""
+msgstr "Ubuntuga Marhamat!"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/welcome.html:8
@@ -251,16 +253,38 @@ msgid ""
 "Fast and full of new features, the latest version of Ubuntu makes computing "
 "easier than ever. Here are just a few cool new things to look out for…"
 msgstr ""
-
-#~ msgid "Welcome"
-#~ msgstr "Хуш келибсиз"
+"Tezkor va yangi xususiyatlarga to'la, Ubuntuning eng yangi versiyasi "
+"komp'yuter texnologiyalarini har qachongidan ham sodda holatga olib kelgan. "
+"Mana bir qancha ajoyib yangiliklarni kuzatishingiz mumkin…"
 
 #~ msgid ""
-#~ "Thank you for choosing Ubuntu 14.04. This version brings some exciting "
-#~ "changes including a totally redesigned desktop interface, Unity. While "
-#~ "Ubuntu is configured, this slideshow will show you around."
+#~ "For pointers to other useful resources, please visit <a href=\"http://"
+#~ "community.ubuntu.com/help-information/\">community.ubuntu.com/help-"
+#~ "information</a> or <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
+#~ "support</a>."
 #~ msgstr ""
-#~ "Ubuntu 14.04. ни танлаганингиз учун раҳмат. Мазкур версия бир қатор "
-#~ "ажойиб ўзгаришлар билан бирга тўлиқ қайта ишланган Unity интерфейсини "
-#~ "олиб келади. Ubuntu созлангунга қадар ушбу слайдшоу сизга уларни тақдим "
-#~ "этади."
+#~ "Boshqa foydali manbalar uchun, marhamat <a href=\"http://community.ubuntu."
+#~ "com/help-information/\">community.ubuntu.com/help-information</a> yoki <a "
+#~ "href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a> ga tashrif "
+#~ "buyuring."
+
+#~ msgid ""
+#~ "The <span class=\"app\" data-app=\"docs\">Official documentation</span> "
+#~ "covers many of the most common areas about Ubuntu. It's available both <a "
+#~ "href=\"https://help.ubuntu.com\">online</a> and via the Ubuntu Help item "
+#~ "in the System menu."
+#~ msgstr ""
+#~ "<span class=\"app\" data-app=\"docs\">Rasmiy yo'riqnoma</span> Ubuntuga "
+#~ "oid eng ko'p tarqalgan holatlarni qamragan. U ham <a href=\"https://help."
+#~ "ubuntu.com\">onlayn</a> , ham Tizim Menyusidagi Ubuntu Yordamda mavjud."
+
+#~ msgid ""
+#~ "Say goodbye to searching the web for new software. With access to the "
+#~ "Ubuntu Software Store, you can find and install new apps with ease. Just "
+#~ "type in what you’re looking for, or explore categories such as Science, "
+#~ "Education and Games, alongside helpful reviews from other users."
+#~ msgstr ""
+#~ "Internetdan dastur qidirish bilan xayrlashing. Ubuntu Dasturlar Markazi "
+#~ "orqali siz yangi dasturlarni osonlik bilan topishingiz va o'rnatishingiz "
+#~ "mumkin. Shunchaki qidiryapgan narsangizni yozing, yoki Fan, Ta'lim, "
+#~ "Oyinlar hamda boshqa foydalanuvchilar fiklarini tadqiq qiling."

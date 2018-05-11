@@ -1,18 +1,20 @@
 # Makefile for ubiquity-slideshow-ubuntu
 
-SLIDESHOWS = \
-	galliumos # \
+SLIDESHOWS = galliumos
+
+#SLIDESHOWS = \
 #	ubuntu \
 #	kubuntu \
 #	xubuntu \
 #	lubuntu \
 #	edubuntu \
 #	ubuntustudio \
-#	ubuntu-gnome \
+#	ubuntu-budgie \
 #	ubuntukylin \
 #	ubuntu-mate \
 #	oem-config-ubuntu \
-#	oem-config-ubuntu-mate
+#	oem-config-ubuntu-mate \
+#	oem-config-ubuntu-budgie
 
 SOURCE ?= .
 SOURCESLIDES ?= $(SOURCE)/slideshows
