@@ -287,7 +287,7 @@ h2 {
 }
 	.slide#welcome #logos {
 		position: absolute;
-		left: 440px;
+		left: 400px;
 		top: 50px;
 	}
 		.slide#welcome #logos div {
@@ -325,6 +325,7 @@ h2 {
 		margin: -30px 0 0 -30px;
 	}
 		.slide#desktop .panel img {
+			margin-top: 18px;
 			position: relative;
 			top: -25px;
 			transition: all 400ms;
@@ -427,7 +428,7 @@ h2 {
 		}
 
 /*  Thank you  */
-.slide#xenial {
-	background: transparent url(../images/xenon_art.png) 100% 100% no-repeat;
+.slide#galliumos_art {
+	background: transparent url(../images/galliumos-bg-bismuth.png) 100% 100% no-repeat;
 	transition: all 400ms;
 }

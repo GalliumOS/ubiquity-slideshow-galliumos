@@ -1,8 +1,9 @@
-ubiquity-slideshow-ubuntu (138-galliumos0) bismuth; urgency=medium
+ubiquity-slideshow-ubuntu (138-galliumos1) bismuth; urgency=medium
 
   * Prepare for GalliumOS 3.0
+  * Update art and copy
 
- -- reynhout <reynhout@galliumos.org>  Fri, 11 May 2018 03:28:39 +0000
+ -- reynhout <reynhout@galliumos.org>  Tue, 18 Jun 2019 07:45:01 +0000
 
 ubiquity-slideshow-ubuntu (138) bionic; urgency=medium
 
