@@ -2,6 +2,8 @@ ubiquity-slideshow-ubuntu (138-galliumos1) bismuth; urgency=medium
 
   * Prepare for GalliumOS 3.0
   * Update art and copy
+  * Lower debian/compat (11->9) for buildability
+  * Remove empty translations
 
  -- reynhout <reynhout@galliumos.org>  Tue, 18 Jun 2019 07:45:01 +0000
 
